@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cruise</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/slideshow.css">
+</head>
+<body>
+  <header class="header">
+    <nav id="myTopnav">
+      <a href="index.html">About</a>
+      <a href="geovisualization.html">GeoVisualisation</a>
+      <a href="ikea.html">IKEA</a>
+      
+     
+      <a class="active" href="cruise.html">Cruise</a>
+      <a href="thematic_map.html">Volcanoes</a>
+      <a href="accidents.html">Accidents in NRW</a>
+      <a href="flood.html">Flood</a>
+      <a href="rustle.html">RUSLE</a>
+      
+      <a href="javascript:void(0);" class="icon" onclick="w3menu('myTopnav')">
+        <i class="fa fa-bars"></i>
+      </a>
+    </nav>
+    <h1>GeoVisualisation</h1>
+    <br />
+    <h2>Portfolio Winter 2023/2024</h2>
+    <div id="author_box">
+      <p>
+        <b>Author:</b> <br />Enes Gültekin
+      </p>
+      <i class="fa fa-envelope-o" aria-hidden="true"></i>
+      m.enes.gultkn@gmail.com
+    </div>
+  </header>
+  <br /><br /><br /><br /><br />
+  <main>
+    <h1 style="text-transform: uppercase">Cruise Data Visualization</h1>
+    <br /><br /><br /><br />
+    <article>
+      <h2 >Map Of The North-Pole Region</h2>
+      <br /><br />
+      <p>
+        The CEAREX drift operations used the ship POLARBJORN as a scientific
+        base. During early September 1988, the POLARBJORN made its way into a
+        region of multiyear pack ice north of Svalbard with icebreaker support
+        from the U.S. Coast Guard NORTHWIND. The POLARBJORN was allowed to
+        freeze into the ice on September 16 at 82 degrees 41 minutes north, 32
+        degrees 26 minutes east. The ship was relatively immobile and drifted
+        slowly southeastward with the ice pack toward Viktoriya Island, then
+        southwestward past Kvitoya Island, and finally into the Barents Sea.
+        The large ice floe (Alpha Floe) to which the POLARBJORN was moored was
+        used as a drifting data collection platform until 15 November, when
+        strong northwesterly winds destroyed the ice floe just northwest of
+        Kvitoya. At this time, equipment was brought aboard and an attempt was
+        made to return to Tromso, Norway. After several days of limited
+        progress, 16 of the 20 scientists were airlifted to Spitsbergen on
+        December 12. A strong storm in early January allowed the POLARBJORN to
+        break free and return to Tromso on 9 January 1989. All drift
+        operations were completed by mid-January 1989, and the ship operated
+        in the Fram Strait and Barents Sea areas from late January until May
+        1989.
+      </p>
+      <a
+        href="https://nsidc.org/sites/default/files/nsidc-0020-v001-userguide_0.pdf"
+        class="harvard footnote indirect"
+        title="Coordinated Eastern Arctic Experiment (CEAREX) Data, Version 1 [Data Set]. Boulder, Colorado USA."
+        >National Snow and Ice Data Center (2003). Coordinated Eastern Arctic
+        Experiment (CEAREX) Data, Version 1 [Data Set]. Boulder, Colorado USA.
+        NASA National Snow and Ice Data Center Distributed Active Archive
+        Center.</a
+      ><br /><br />
+      <p>The project aim to visualise the cruise of POLARBJORN ship.</p>
+    </article>
+    <h2 style="margin-bottom: 2%;margin-top: 2%;">Process</h2>
+    <div class="slideshow">
+      <div class="main_panel">
+        <div class="body_panel">
+          <img src="data/Session-4/images/PBDRIFT.POS-1.png" alt="Importing Coordinated CEAREX Data" />
+          <p class="image_description" style="font-size: x-large;">
+            Importing Coordinated CEAREX Data
+          </p>
+        </div>
+        <div class="slide_panel">
+          <img src="data/Session-4/images/PBDRIFT.POS-1.png" alt="Importing Coordinated CEAREX Data" />
+          <img src="data/Session-4/images/PBDRIFT.POS-2.png" alt="Visualization of Points" />
+          <img src="data/Session-4/images/cruise_line_point_to_line.png" alt="Converting Points to Line with 'Points to Path' tool" />
+          <img src="data/Session-4/images/cruise_line_lenght.png" alt="Length of Cruise line and Attributes" />
+          <img src="data/Session-4/images/elipsoidal_dist.png" alt="Elipsoidal Distance" />
+          <img src="data/Session-4/images/cartesian_dist.png" alt="Cartesian Distance" />
+        </div>
+      </div>
+    </div>
+    <article><p><h3>Cartesian Distance:</h3>
+      Assumption: Measures distance on a flat, two-dimensional plane.
+      Calculation: Uses the Pythagorean theorem to calculate straight-line distances between points.
+      Use Case: Often used in small-scale maps or local surveys where the curvature of the Earth is negligible.
+      <h3>Ellipsoidal Distance: </h3>
+      Assumption: Measures distance on the curved surface of an ellipsoid, which is a more accurate representation of the Earth’s shape.
+      Calculation: Takes into account the Earth’s curvature and uses geodetic methods to calculate distances.
+      Use Case: Used in large-scale maps, global navigation, and geodesy where the Earth’s curvature cannot be ignored.
+      </p></article>
+
+  <h2 style="margin-bottom: 2%;">Result</h2>
+
+  <video width="85%" height="750px" controls autoplay style="border-width: 3px; border-style: solid;margin: 0 7% 0 7%; border-radius: 20px 20px 0px 0px;"><source src="data/Session-4/images/cruise animation/cruise.mp4"  type="video/mp4"></video>
+    <article><p>The POLARBJORN ship’s drift operations during the CEAREX experiment took approximately 117 days and the journey took almost 280 km until the end of the operation </p></article>
+</main>
+
+  <script>
+    const slideImages = document.querySelectorAll(".slide_panel img");
+    const mainImage = document.querySelector(".body_panel img");
+    const imageDescription = document.querySelector(".image_description");
+
+    slideImages.forEach((image) => {
+      image.addEventListener("click", function () {
+        mainImage.src = this.src;
+        imageDescription.textContent = this.alt;
+      });
+    });
+  </script>
+  <script src="https://www.w3schools.com/lib/w3.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

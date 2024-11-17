@@ -1,0 +1,2567 @@
+fid,Volcano_Name,Country,Elevation,Last_Eruption_Year
+1,West Eifel Volcanic Field,Germany,600,-8300
+2,Chaine des Puys,France,1464,-4040
+3,Olot Volcanic Field,Spain,893,NA
+4,Calatrava Volcanic Field,Spain,1117,-3600
+5,Colli Albani,Italy,949,NA
+6,Campi Flegrei,Italy,458,1538
+7,Vesuvius,Italy,1281,1944
+8,Palinuro,Italy,-70,-8040
+9,Ischia,Italy,789,1302
+10,Panarea,Italy,399,NA
+11,Lipari,Italy,590,1230
+12,Stromboli,Italy,924,2024
+13,Vulcano,Italy,500,1890
+14,Etna,Italy,3357,2024
+15,Pantelleria,Italy,836,1891
+16,Campi Flegrei del Mar di Sicilia,Italy,-8,1867
+17,Methana,Greece,380,-258
+18,Milos,Greece,751,140
+19,Santorini,Greece,367,1950
+20,Nisyros,Greece,698,1888
+21,Kula,Turkiye,750,NA
+22,Hasandag-Keciboyduran Volcanic Complex,Turkiye,3253,NA
+23,Karaca Dag,Turkiye,1957,NA
+24,Erciyes Volcanic Complex,Turkiye,3864,-6880
+25,Nemrut Dagi,Turkiye,2948,1650
+26,Tenduruk Dagi,Turkiye,3514,1855
+27,Ararat,Turkiye,5165,1840
+28,Elbrus,Russia,5642,50
+29,Kazbek,Georgia,5050,-750
+30,Samsari Volcanic Center,Georgia,3290,NA
+31,Aragats,Armenia,4095,NA
+32,Ghegham Volcanic Ridge,Armenia,3597,-1900
+33,Vaiyots-Sar,Armenia,2575,-2000
+34,Porak,Armenia-Azerbaijan,3029,-778
+35,Tskhouk-Karckar,Armenia-Azerbaijan,3139,-3000
+36,"Tair, Jebel at",Yemen,244,2008
+37,Zukur,Yemen,624,NA
+38,Hanish,Yemen,422,NA
+39,Zubair Group,Yemen,191,2013
+40,Dallol,Ethiopia,-48,2011
+41,Alid,Eritrea,904,NA
+42,Gada Ale,Ethiopia,287,NA
+43,Alu-Dalafilla,Ethiopia,578,2008
+44,Bora Ale,Ethiopia,668,NA
+45,Erta Ale,Ethiopia,585,2024
+46,Hayli Gubbi,Ethiopia,493,NA
+47,Ale Bagu,Ethiopia,988,NA
+48,Nabro,Eritrea,2218,2012
+49,Mallahle,Ethiopia-Eritrea,1875,NA
+50,Sork Ale,Ethiopia-Eritrea,1611,NA
+51,Asavyo,Ethiopia,1338,NA
+52,Mat Ala,Ethiopia,493,NA
+53,Tat Ali,Ethiopia,655,NA
+54,Borawli,Ethiopia,784,NA
+55,Dubbi,Eritrea,1625,1861
+56,Ma Alalta,Ethiopia,1745,NA
+57,Alayta,Ethiopia,1496,1915
+58,Dabbahu,Ethiopia,1401,2005
+59,Dabbayra,Ethiopia,1302,NA
+60,Manda Hararo,Ethiopia,600,2009
+61,Groppo,Ethiopia,852,NA
+62,Afdera,Ethiopia,1250,NA
+63,Manda Gargori,Ethiopia,700,NA
+64,Manda-Inakir,Ethiopia-Djibouti,600,1928
+65,Mousa Alli,Ethiopia-Eritrea-Djibouti,1993,NA
+66,Gufa,Eritrea-Djibouti,600,NA
+67,Assab Volcanic Field,Eritrea,987,NA
+68,Ardoukoba,Djibouti,298,1978
+69,Kurub,Ethiopia,625,NA
+70,Dama Ali,Ethiopia,1068,1631
+71,Yangudi,Ethiopia,1383,NA
+72,Gabillema,Ethiopia,1459,NA
+73,Ayelu,Ethiopia,2145,NA
+74,Hertali,Ethiopia,900,NA
+75,Liado Hayk,Ethiopia,878,NA
+76,Adwa,Ethiopia,1670,NA
+77,Dofan,Ethiopia,1151,NA
+78,Beru,Ethiopia,1100,NA
+79,Fentale,Ethiopia,2007,1820
+80,Kone,Ethiopia,1380,1820
+81,Boset,Ethiopia,2447,NA
+82,Bishoftu Volcanic Field,Ethiopia,1850,NA
+83,Melkassa,Ethiopia,1765,NA
+84,Gedemsa,Ethiopia,1909,NA
+85,Bora-Bericha-Tullu Moye,Ethiopia,2345,1900
+86,Unnamed,Ethiopia,1886,NA
+87,East Ziway,Ethiopia,1889,NA
+88,Butajiri-Silti Field,Ethiopia,2281,NA
+89,Aluto,Ethiopia,2335,1550
+90,Shala,Ethiopia,2075,NA
+91,Corbetti,Ethiopia,2289,-396
+92,Bilate River Field,Ethiopia,1700,NA
+93,Korath Range,Ethiopia,912,NA
+94,Lake Turkana North Island,Kenya,490,NA
+95,Lake Turkana Central Island,Kenya,518,NA
+96,Marsabit,Kenya,1707,NA
+97,Lake Turkana South Island,Kenya,800,1888
+98,"Barrier, The",Kenya,1032,1921
+99,Namarunu,Kenya,817,-6550
+100,Segererua Plateau,Kenya,699,NA
+101,Emuruangogolak,Kenya,1285,1910
+102,Silali,Kenya,1528,-5050
+103,Paka,Kenya,1697,-7550
+104,Korosi,Kenya,1446,NA
+105,Ol Kokwe,Kenya,1130,NA
+106,Nyambeni Hills,Kenya,750,NA
+107,Menengai,Kenya,2278,-6050
+108,Elmenteita Badlands,Kenya,2126,NA
+109,Homa Mountain,Kenya,1751,NA
+110,"Eburru, Ol Doinyo",Kenya,2856,NA
+111,Olkaria,Kenya,2434,1770
+112,Longonot,Kenya,2776,1863
+113,Suswa,Kenya,2356,NA
+114,"Lengai, Ol Doinyo",Tanzania,2962,2024
+115,Chyulu Hills,Kenya,2188,1855
+116,Igwisi Hills,Tanzania,1146,-10450
+117,Ngozi,Tanzania,2614,1450
+118,Rungwe,Tanzania,2953,1250
+119,Meru,Tanzania,4550,1910
+120,Kyejo,Tanzania,2176,1800
+121,Fort Portal,Uganda,1615,-2120
+122,Kyatwa,Uganda,1430,NA
+123,Katwe-Kikorongo,Uganda,1067,NA
+124,Bunyaruguru,Uganda,1554,NA
+125,Katunga,Uganda,1707,NA
+126,Nyamulagira,DR Congo,3058,2024
+127,Nyiragongo,DR Congo,3470,2024
+128,Karisimbi,DR Congo-Rwanda,4490,-8050
+129,Visoke,DR Congo-Rwanda,3696,1957
+130,Muhavura,Uganda-Rwanda,4103,NA
+131,Bufumbira,Uganda,2100,NA
+132,San Carlos,Equatorial Guinea,2260,NA
+133,San Joaquin,Equatorial Guinea,2009,NA
+134,Santa Isabel,Equatorial Guinea,2999,1923
+135,Tombel Graben,Cameroon,500,NA
+136,Cameroon,Cameroon,4095,2000
+137,Oku Volcanic Field,Cameroon,3011,NA
+138,Todra Volcanic Field,Niger,1780,NA
+139,Tahalra Volcanic Field,Algeria,1467,NA
+140,Atakor Volcanic Field,Algeria,2918,NA
+141,Manzaz Volcanic Field,Algeria,1672,NA
+142,"Toh, Tarso",Chad,2000,NA
+143,"Tousside, Tarso",Chad,3265,NA
+144,"Koussi, Emi",Chad,3415,NA
+145,"Voon, Tarso",Chad,3100,NA
+146,"Marra, Jebel",Sudan,3042,-2000
+147,Kutum Volcanic Field,Sudan,1779,NA
+148,Meidob Volcanic Field,Sudan,2000,-2950
+149,Bayuda Volcanic Field,Sudan,670,850
+150,"Ash Shaam, Harrat",Syria-Jordan-Saudi Arabia,1100,-2670
+151,"Lunayyir, Harrat",Saudi Arabia,1370,1000
+152,"Ithnayn, Harrat",Saudi Arabia,1625,NA
+153,"Khaybar, Harrat",Saudi Arabia,2093,650
+154,"Kishb, Harrat",Saudi Arabia,1475,NA
+155,"Birk, Harrat al",Saudi Arabia,587,NA
+156,"Rahat, Harrat",Saudi Arabia,1744,1256
+157,"Yar, Jabal",Saudi Arabia,305,1810
+158,"Arhab, Harra of",Yemen,3100,500
+159,"Haylan, Jabal",Yemen,1550,-1200
+160,"Dhamar, Harras of",Yemen,3500,NA
+161,"Sawad, Harra Es-",Yemen,1737,1253
+162,Balhaf-Bir Ali Volcanic Field,Yemen,604,NA
+163,Bir Borhut,Yemen,464,NA
+164,Damavand,Iran,5670,-5350
+165,"Grille, La",Comoros,1087,NA
+166,Mayotte,France,660,2019
+167,Ambre-Bobaomby,Madagascar,1475,NA
+168,Nosy-Be,Madagascar,214,NA
+169,Ankaizina Field,Madagascar,2878,NA
+170,Itasy Volcanic Field,Madagascar,1800,-6050
+171,Vakinankaratra,Madagascar,2644,NA
+172,Karthala,Comoros,2361,2007
+173,"Fournaise, Piton de la",France,2632,2023
+174,Boomerang Seamount,France,-650,1995
+175,Amsterdam Island,France,881,NA
+176,St. Paul,France,268,1793
+177,McDonald Islands,Australia,230,2005
+178,Heard,Australia,2745,2024
+179,Kerguelen Islands,France,1840,NA
+180,"Est, Ile de l'",France,1090,NA
+181,"Possession, Ile de la",France,934,NA
+182,"Cochons, Ile aux",France,775,NA
+183,Prince Edward Island,South Africa,672,NA
+184,Marion Island,South Africa,1230,2004
+185,Kaikohe-Bay of Islands,New Zealand,388,400
+186,Mayor Island,New Zealand,355,-5060
+187,Auckland Volcanic Field,New Zealand,260,1446
+188,Taranaki,New Zealand,2518,1800
+189,Whakaari/White Island,New Zealand,294,2024
+190,Okataina,New Zealand,1111,1981
+191,Taupo,New Zealand,760,260
+192,Tongariro,New Zealand,1978,2012
+193,Clark,New Zealand,-860,NA
+194,Tangaroa,New Zealand,-600,NA
+195,Ruapehu,New Zealand,2797,2007
+196,Rumble V,New Zealand,-400,NA
+197,Rumble IV,New Zealand,-500,NA
+198,Rumble III,New Zealand,-220,2008
+199,Rumble II West,New Zealand,-1200,NA
+200,Healy,New Zealand,-980,1360
+201,Brothers,New Zealand,-1350,NA
+202,Wright,New Zealand,-900,NA
+203,Curtis Island,New Zealand,47,NA
+204,Macauley,New Zealand,238,-4360
+205,Giggenbach,New Zealand,-65,NA
+206,Raoul Island,New Zealand,516,2006
+207,Monowai,New Zealand,-132,2014
+208,Unnamed,Tonga,-385,NA
+209,Unnamed,Tonga,-65,NA
+210,Unnamed,Tonga,-68,1932
+211,Unnamed,Tonga,-296,2017
+212,Hunga Tonga-Hunga Ha'apai,Tonga,114,2022
+213,Fonuafo'ou,Tonga,-17,1936
+214,Kao,Tonga,1009,1847
+215,Tofua,Tonga,515,2024
+216,Lateiki,Tonga,43,2019
+217,Home Reef,Tonga,-10,2023
+218,Unnamed,Tonga,-40,2019
+219,Late,Tonga,540,1854
+220,Tafahi,Tonga,546,NA
+221,Curacoa,Tonga,-33,1979
+222,Fonualei,Tonga,188,1957
+223,Niuafo'ou,Tonga,260,1946
+224,Tafu-Maka,Tonga,-1400,2008
+225,West Mata,Tonga,-1174,2009
+226,Vailulu'u,United States,-592,2003
+227,Ta'u,United States,931,NA
+228,Ofu-Olosega,United States,639,1866
+229,Tutuila,United States,653,440
+230,Upolu,Samoa,1100,NA
+231,Savaii,Samoa,1858,1911
+232,Taveuni,Fiji,1241,1550
+233,Nabukelevu,Fiji,791,1660
+234,St. Andrew Strait,Papua New Guinea,270,1957
+235,Central Bismarck Sea,Papua New Guinea,-1300,1972
+236,Blup Blup,Papua New Guinea,402,NA
+237,Kadovar,Papua New Guinea,365,2023
+238,Boisa,Papua New Guinea,240,NA
+239,Bam,Papua New Guinea,685,1960
+240,Manam,Papua New Guinea,1807,2024
+241,Karkar,Papua New Guinea,1839,1979
+242,Hankow Reef,Papua New Guinea,-5,NA
+243,Long Island,Papua New Guinea,1280,1993
+244,Umboi,Papua New Guinea,1335,NA
+245,Ritter Island,Papua New Guinea,75,2007
+246,Sakar,Papua New Guinea,992,NA
+247,Langila,Papua New Guinea,1330,2024
+248,Dakataua,Papua New Guinea,408,1895
+249,Bola,Papua New Guinea,1116,NA
+250,Garua Harbour,Papua New Guinea,565,NA
+251,Lolo,Papua New Guinea,796,NA
+252,Krummel-Garbuna-Welcker,Papua New Guinea,564,2008
+253,Witori,Papua New Guinea,724,2012
+254,Sulu Range,Papua New Guinea,610,NA
+255,Hargy,Papua New Guinea,1148,950
+256,Bamus,Papua New Guinea,2248,1886
+257,Ulawun,Papua New Guinea,2334,2023
+258,Lolobau,Papua New Guinea,878,1912
+259,Rabaul,Papua New Guinea,688,2014
+260,Tavui,Papua New Guinea,200,-4946
+261,Hydrographers Range,Papua New Guinea,1915,NA
+262,Lamington,Papua New Guinea,1680,1956
+263,Managlase Plateau,Papua New Guinea,1342,NA
+264,Victory,Papua New Guinea,1832,1935
+265,Goodenough,Papua New Guinea,220,NA
+266,Sessagara Hills,Papua New Guinea,493,1944
+267,Iamalele,Papua New Guinea,194,NA
+268,Dawson Strait Group,Papua New Guinea,500,1350
+269,Lihir,Papua New Guinea,700,NA
+270,Ambitle,Papua New Guinea,450,-350
+271,Billy Mitchell,Papua New Guinea,1544,1580
+272,Balbi,Papua New Guinea,2715,NA
+273,Takuan Group,Papua New Guinea,2210,NA
+274,Bagana,Papua New Guinea,1855,2024
+275,Loloru,Papua New Guinea,1887,-1050
+276,Kana Keoki,Solomon Islands,-700,NA
+277,Coleman Seamount,Solomon Islands,-717,NA
+278,Simbo,Solomon Islands,335,1910
+279,Unnamed,Solomon Islands,-240,NA
+280,Gallego,Solomon Islands,1000,NA
+281,Kavachi,Solomon Islands,-20,2014
+282,Savo,Solomon Islands,485,1847
+283,Tinakula,Solomon Islands,796,2024
+284,Motlav,Vanuatu,411,NA
+285,Suretamatai,Vanuatu,921,1966
+286,Gaua,Vanuatu,729,2022
+287,Ambae,Vanuatu,1496,2023
+288,Ambrym,Vanuatu,1334,2024
+289,Lopevi,Vanuatu,1413,2007
+290,East Epi,Vanuatu,833,2023
+291,Kuwae,Vanuatu,-2,1974
+292,Nguna-Emau,Vanuatu,589,NA
+293,Traitor's Head,Vanuatu,817,1881
+294,Yasur,Vanuatu,361,2024
+295,Gemini-Oscostar,Vanuatu,-33,1996
+296,Matthew Island,France - claimed by Vanuatu,177,1956
+297,Hunter Island,France - claimed by Vanuatu,297,1903
+298,Newer Volcanics Province,Australia,1011,-2900
+299,McBride Volcanic Province,Australia,1020,-5050
+300,Narcondum,India,710,NA
+301,Barren Island,India,354,2024
+302,Seulawah Agam,Indonesia,1810,1839
+303,Peuet Sague,Indonesia,2785,2000
+304,"Telong, Bur ni",Indonesia,2617,1937
+305,Singkut,Indonesia,2181,1881
+306,Sinabung,Indonesia,2460,2021
+307,Toba,Indonesia,2157,NA
+308,Lubukraya,Indonesia,1862,NA
+309,Sibualbuali,Indonesia,1819,NA
+310,Malintang,Indonesia,1983,NA
+311,Sorikmarapi,Indonesia,2145,1986
+312,Talakmau,Indonesia,2919,NA
+313,Marapi,Indonesia,2885,2024
+314,Tandikat-Singgalang,Indonesia,2854,1924
+315,Talang,Indonesia,2575,2007
+316,Kerinci,Indonesia,3800,2024
+317,Sumbing,Indonesia,2507,1921
+318,Hululais,Indonesia,2122,NA
+319,"Daun, Bukit",Indonesia,2467,NA
+320,Kaba,Indonesia,1940,2000
+321,Patah,Indonesia,2836,NA
+322,Dempo,Indonesia,3142,2024
+323,Ranau,Indonesia,1854,NA
+324,Suoh,Indonesia,1000,2024
+325,Rajabasa,Indonesia,1281,NA
+326,Krakatau,Indonesia,285,2023
+327,Pulosari,Indonesia,1324,NA
+328,Karang,Indonesia,1768,NA
+329,Perbakti-Gagak,Indonesia,1726,1939
+330,Salak,Indonesia,2218,1938
+331,Gede-Pangrango,Indonesia,3026,1957
+332,Patuha,Indonesia,2422,NA
+333,Tangkuban Parahu,Indonesia,2084,2019
+334,Papandayan,Indonesia,2665,2002
+335,Kendang,Indonesia,2594,NA
+336,Tampomas,Indonesia,1690,NA
+337,Guntur,Indonesia,2251,1847
+338,Galunggung,Indonesia,2168,1984
+339,Talagabodas,Indonesia,2201,NA
+340,Ciremai,Indonesia,3039,1951
+341,Slamet,Indonesia,3428,2014
+342,Dieng Volcanic Complex,Indonesia,2565,2021
+343,Sundoro,Indonesia,3147,1971
+344,Sumbing,Indonesia,3371,1730
+345,Telomoyo,Indonesia,1864,NA
+346,Ungaran,Indonesia,2033,NA
+347,Merbabu,Indonesia,3118,1797
+348,Merapi,Indonesia,2910,2024
+349,Lawu,Indonesia,3265,1885
+350,Wilis,Indonesia,2563,NA
+351,Kawi-Butak,Indonesia,2651,NA
+352,Kelud,Indonesia,1730,2014
+353,Penanggungan,Indonesia,1631,NA
+354,Arjuno-Welirang,Indonesia,3343,1952
+355,Semeru,Indonesia,3657,2024
+356,Tengger Caldera,Indonesia,2329,2023
+357,Lamongan,Indonesia,1641,1898
+358,Iyang-Argapura,Indonesia,3088,NA
+359,Raung,Indonesia,3260,2022
+360,Baluran,Indonesia,1247,NA
+361,Ijen,Indonesia,2769,1999
+362,Buyan-Bratan,Indonesia,2244,NA
+363,Batur,Indonesia,1711,2000
+364,Agung,Indonesia,2997,2019
+365,Rinjani,Indonesia,3726,2016
+366,Tambora,Indonesia,2850,1967
+367,Sangeang Api,Indonesia,1912,2022
+368,"Sano, Wai",Indonesia,1319,NA
+369,Ranakah,Indonesia,2288,1991
+370,Inierie,Indonesia,2245,-8050
+371,Inielika,Indonesia,1559,2001
+372,Ebulobo,Indonesia,2096,1969
+373,Iya,Indonesia,618,1969
+374,Kelimutu,Indonesia,1639,1968
+375,Paluweh,Indonesia,875,2013
+376,Egon,Indonesia,1661,2008
+377,Lewotobi,Indonesia,1703,2024
+378,Leroboleng,Indonesia,1095,2003
+379,Iliboleng,Indonesia,1659,1993
+380,Lewotolok,Indonesia,1431,2024
+381,Ililabalekan,Indonesia,1018,NA
+382,Iliwerung,Indonesia,583,2021
+383,"Tara, Batu",Indonesia,633,2015
+384,Sirung,Indonesia,1347,2021
+385,Wurlali,Indonesia,868,1892
+386,Teon,Indonesia,728,1904
+387,Nila,Indonesia,781,1968
+388,Serua,Indonesia,608,1921
+389,Manuk,Indonesia,257,NA
+390,Banda Api,Indonesia,596,1988
+391,Colo,Indonesia,404,1983
+392,Ambang,Indonesia,1795,2005
+393,Soputan,Indonesia,1785,2020
+394,Lokon-Empung,Indonesia,1580,2015
+395,Mahawu,Indonesia,1299,1977
+396,Klabat,Indonesia,1968,NA
+397,Tangkoko-Duasudara,Indonesia,1334,1880
+398,Ruang,Indonesia,725,2024
+399,Karangetang,Indonesia,1797,2023
+400,Banua Wuhu,Indonesia,-5,1919
+401,Awu,Indonesia,1318,2004
+402,Tarakan,Indonesia,317,NA
+403,Dukono,Indonesia,1273,2024
+404,Tobaru,Indonesia,1035,NA
+405,Ibu,Indonesia,1325,2024
+406,Gamkonora,Indonesia,1635,2007
+407,Jailolo,Indonesia,993,NA
+408,Hiri,Indonesia,630,NA
+409,Todoko-Ranu,Indonesia,979,NA
+410,Kie Matubu,Indonesia,1713,1210
+411,Mare,Indonesia,308,NA
+412,Moti,Indonesia,927,NA
+413,Gamalama,Indonesia,1714,2018
+414,Tigalalu,Indonesia,422,NA
+415,Amasing,Indonesia,1006,NA
+416,Bibinoi,Indonesia,932,NA
+417,Kie Besi,Indonesia,1357,1988
+418,Melebingoy,Philippines,1824,1641
+419,Balut,Philippines,840,NA
+420,Matutum,Philippines,2262,1290
+421,Leonard Range,Philippines,1080,80
+422,Apo,Philippines,2938,NA
+423,Makaturing,Philippines,1818,1882
+424,Kalatungan,Philippines,2824,NA
+425,Ragang,Philippines,2790,1916
+426,Malindang,Philippines,2404,NA
+427,Musuan,Philippines,610,NA
+428,Camiguin,Philippines,1552,1953
+429,Kanlaon,Philippines,2422,2024
+430,Cabalían,Philippines,912,1820
+431,Biliran,Philippines,1301,1939
+432,Bulusan,Philippines,1535,2022
+433,Pocdol Mountains,Philippines,1102,NA
+434,Masaraga,Philippines,1294,NA
+435,Mayon,Philippines,2462,2024
+436,Iriga,Philippines,1138,NA
+437,Isarog,Philippines,1966,-3500
+438,Malindig,Philippines,1157,NA
+439,Banahaw,Philippines,2158,NA
+440,San Pablo Volcanic Field,Philippines,1090,1350
+441,Taal,Philippines,311,2024
+442,Pinatubo,Philippines,1486,2021
+443,Patoc,Philippines,1865,NA
+444,Ambalatungan Group,Philippines,2329,NA
+445,Laguna Caldera,Philippines,743,NA
+446,Cagua,Philippines,1133,1860
+447,Camiguin de Babuyanes,Philippines,712,1857
+448,Didicas,Philippines,228,1978
+449,Babuyan Claro,Philippines,1064,1924
+450,Iraya,Philippines,1009,1454
+451,Hainan Volcanic Field,China,196,1933
+452,Ly Son Group,Vietnam,157,NA
+453,"Cendres, Ile des",Vietnam,-20,1923
+454,Popa,Burma (Myanmar),1518,-6050
+455,Tengchong,China,2865,-5750
+456,Kueishantao,Taiwan,361,1853
+457,Tatun Volcanic Group,Taiwan,1120,648
+458,Submarine Volcano NNE of Iriomotejima,Japan,-200,1924
+459,Yokoatejima,Japan,495,1835
+460,Akusekijima,Japan,555,NA
+461,Io-Torishima,Japan,212,1968
+462,Suwanosejima,Japan,796,2024
+463,Kuchinoshima,Japan,628,1190
+464,Nakanoshima,Japan,979,1914
+465,Kuchinoerabujima,Japan,657,2020
+466,Kikai,Japan,704,2020
+467,Ata,Japan,924,885
+468,Yonemaru-Sumiyoshiike,Japan,40,-6200
+469,Aira,Japan,1117,2024
+470,Fukue,Japan,315,-400
+471,Kirishimayama,Japan,1700,2018
+472,Unzendake,Japan,1483,1996
+473,Asosan,Japan,1592,2021
+474,Kujusan,Japan,1791,1996
+475,Yufu-Tsurumi,Japan,1584,867
+476,Abu,Japan,641,-6850
+477,Sanbesan,Japan,1126,650
+478,Izu-Tobu,Japan,1406,1989
+479,Hakoneyama,Japan,1438,2015
+480,Yokodake,Japan,2480,1200
+481,Fujisan,Japan,3776,1708
+482,Ontakesan,Japan,3067,2014
+483,Hakusan,Japan,2702,1659
+484,Norikuradake,Japan,3026,-50
+485,Washiba-Kumonotaira,Japan,2924,NA
+486,Yakedake,Japan,2455,1995
+487,Midagahara,Japan,2621,1839
+488,Niigata-Yakeyama,Japan,2400,1998
+489,Myokosan,Japan,2454,-750
+490,Asamayama,Japan,2568,2019
+491,Shiga,Japan,2041,NA
+492,Harunasan,Japan,1449,550
+493,Kusatsu-Shiranesan,Japan,2165,2018
+494,Hiuchigatake,Japan,2356,1544
+495,Akagisan,Japan,1828,NA
+496,Nantaisan,Japan,2486,-9540
+497,Omanago Group,Japan,2341,-3050
+498,Takaharayama,Japan,1795,-4570
+499,Nikko-Shiranesan,Japan,2578,1952
+500,Numazawa,Japan,835,-3400
+501,Nasudake,Japan,1915,1963
+502,Bandaisan,Japan,1816,1888
+503,Adatarayama,Japan,1728,1996
+504,Azumayama,Japan,1949,1977
+505,Hijiori,Japan,552,NA
+506,Zaozan [Zaosan],Japan,1841,1940
+507,Naruko,Japan,470,837
+508,Kurikomayama,Japan,1627,1950
+509,Chokaisan,Japan,2236,1974
+510,Akita-Komagatake,Japan,1637,1971
+511,Iwatesan,Japan,2038,1919
+512,Hachimantai,Japan,1613,-5350
+513,Megata,Japan,160,-2050
+514,Akita-Yakeyama,Japan,1366,1997
+515,Towada,Japan,1011,915
+516,Iwakisan,Japan,1625,1863
+517,Hakkodasan,Japan,1585,1550
+518,Osorezan,Japan,878,1787
+519,Toshima,Japan,508,-4550
+520,Izu-Oshima,Japan,746,1990
+521,Niijima,Japan,432,886
+522,Kozushima,Japan,572,838
+523,Mikurajima,Japan,851,-4100
+524,Kurose Hole,Japan,-114,NA
+525,Miyakejima,Japan,775,2010
+526,Hachijojima,Japan,854,1606
+527,Kita-Bayonnaise,Japan,-360,NA
+528,Aogashima,Japan,423,1785
+529,Myojinsho,Japan,11,1970
+530,Sumisujima,Japan,136,1916
+531,Sofugan,Japan,99,NA
+532,Suiyo Seamount,Japan,-991,NA
+533,Mokuyo Seamount,Japan,-933,NA
+534,Doyo Seamount,Japan,-590,NA
+535,Nishinoshima,Japan,100,2023
+536,Kaikata Seamount,Japan,-165,NA
+537,Izu-Torishima,Japan,394,2002
+538,Kaitoku Seamount,Japan,-95,2023
+539,Kita-Ioto,Japan,792,2022
+540,Kita-Fukutokutai,Japan,-73,1954
+541,Ioto,Japan,169,2024
+542,Minami-Hiyoshi,Japan,-107,1975
+543,Nikko,Japan,-392,NA
+544,Fukujin,United States,-217,1974
+545,Kasuga 1,United States,-598,1959
+546,Kasuga 2,United States,-274,NA
+547,NW Eifuku,United States,-1535,NA
+548,Daikoku,United States,-323,NA
+549,Fukutoku-Oka-no-Ba,Japan,-29,2021
+550,Ahyi,United States,-75,2024
+551,Supply Reef,United States,-8,NA
+552,Maug Islands,United States,227,NA
+553,Farallon de Pajaros,United States,337,1953
+554,Asuncion,United States,857,1906
+555,Agrigan,United States,965,1917
+556,Pagan,United States,570,2021
+557,Alamagan,United States,744,870
+558,Zealandia Bank,United States,0,NA
+559,Sarigan,United States,538,NA
+560,Guguan,United States,287,1883
+561,East Diamante,United States,-127,NA
+562,Ruby,United States,174,2023
+563,Anatahan,United States,790,2008
+564,NW Rota-1,United States,-517,2010
+565,Esmeralda Bank,United States,-74,NA
+566,Forecast Seamount,United States,-1456,NA
+567,Seamount X,United States,-1230,NA
+568,Esan,Japan,618,1874
+569,Oshima-Oshima,Japan,732,1790
+570,Hokkaido-Komagatake,Japan,1131,2000
+571,Niseko,Japan,1308,-4900
+572,Yoteizan,Japan,1888,-1050
+573,Kuttara,Japan,549,1820
+574,Toya,Japan,733,2001
+575,Rishirizan,Japan,1721,-5830
+576,Shikotsu,Japan,1320,1981
+577,Tokachidake,Japan,2077,2004
+578,Maruyama,Japan,2013,1898
+579,Taisetsuzan,Japan,2291,1739
+580,Akan,Japan,1499,2008
+581,Mashu,Japan,857,1080
+582,Rausudake,Japan,1660,1800
+583,Kussharo,Japan,574,1320
+584,Shiretoko-Iozan,Japan,1562,1936
+585,Tomariyama [Golovnin],Japan - administered by Russia,535,1848
+586,Ruruidake [Smirnov],Japan - administered by Russia,1486,NA
+587,Raususan [Mendeleev],Japan - administered by Russia,882,1880
+588,Chachadake [Tiatia],Japan - administered by Russia,1822,1981
+589,Moekeshiwan [Lvinaya Past],Japan - administered by Russia,528,-7480
+590,Berutarubesan [Berutarube],Japan - administered by Russia,1221,NA
+591,Etorofu-Atosanupuri [Atosanupuri],Japan - administered by Russia,1206,1932
+592,Hitokappu Volcano Group [Bogatyr Ridge],Japan - administered by Russia,1610,NA
+593,Unnamed,Japan - administered by Russia,-195,NA
+594,Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,1158,2013
+595,Sashiusudake [Baransky],Japan - administered by Russia,1125,1951
+596,Chirippusan [Chirip],Japan - administered by Russia,1587,1860
+597,Moyorodake [Medvezhia],Japan - administered by Russia,1124,1999
+598,Rakkibetsudake [Demon],Japan - administered by Russia,1205,NA
+599,Ivao Group,Russia,1426,NA
+600,Rudakov,Russia,532,NA
+601,Tri Sestry,Russia,998,NA
+602,Kolokol Group,Russia,1328,1973
+603,Chirpoi,Russia,742,2016
+604,Unnamed,Russia,-502,1972
+605,Milna,Russia,1504,1914
+606,Zavaritzki Caldera,Russia,612,1957
+607,Uratman,Russia,678,NA
+608,Prevo Peak,Russia,1360,1825
+609,Ketoi,Russia,1172,1960
+610,Srednii,Russia,36,NA
+611,Ushishur,Russia,357,1884
+612,Rasshua,Russia,956,1957
+613,Sarychev Peak,Russia,1496,2021
+614,Raikoke,Russia,551,2019
+615,Chirinkotan,Russia,724,2022
+616,Ekarma,Russia,1170,2010
+617,Sinarka,Russia,911,1878
+618,Kharimkotan,Russia,1145,1933
+619,Tao-Rusyr Caldera,Russia,1272,1952
+620,Nemo Peak,Russia,1018,1938
+621,Shirinki,Russia,761,NA
+622,Fuss Peak,Russia,1742,1854
+623,Karpinsky Group,Russia,1326,1952
+624,Chikurachki,Russia,1781,2023
+625,Vernadskii Ridge,Russia,1183,NA
+626,Ebeko,Russia,1103,2024
+627,Alaid,Russia,2285,2022
+628,Kambalny,Russia,2116,2017
+629,Yavinsky,Russia,646,-4050
+630,Diky Greben,Russia,1040,350
+631,Kurile Lake,Russia,81,-6440
+632,Koshelev,Russia,1822,1690
+633,Iliinsky,Russia,1555,1901
+634,Zheltovsky,Russia,1926,1923
+635,Olkoviy Volcanic Group,Russia,681,NA
+636,Khodutka,Russia,2039,-300
+637,Asacha,Russia,1910,NA
+638,Visokiy,Russia,1227,NA
+639,Ksudach,Russia,1079,1907
+640,Mutnovsky,Russia,2288,2000
+641,Gorely,Russia,1799,2010
+642,Tolmachev Dol,Russia,1021,300
+643,Vilyuchinsky,Russia,2173,-8050
+644,Barkhatnaya Sopka,Russia,874,-3550
+645,Opala,Russia,2439,1776
+646,Koryaksky,Russia,3430,2009
+647,Avachinsky,Russia,2717,2001
+648,Dzenzursky,Russia,2285,NA
+649,Veer,Russia,520,390
+650,Kostakan,Russia,1150,1350
+651,Bakening,Russia,2278,-550
+652,Zavaritsky,Russia,1567,-800
+653,Akademia Nauk,Russia,1180,1996
+654,Zhupanovsky,Russia,2899,2016
+655,Karymsky,Russia,1513,2022
+656,Maly Semyachik,Russia,1527,1952
+657,Bolshoi Semiachik,Russia,1720,-4450
+658,Taunshits,Russia,2301,-550
+659,Uzon,Russia,1617,200
+660,Kikhpinych,Russia,1515,1550
+661,Krasheninnikov,Russia,1816,1550
+662,Kronotsky,Russia,3482,1923
+663,Gamchen,Russia,2539,-550
+664,Vysoky,Russia,2129,-550
+665,Komarov,Russia,2065,950
+666,Kizimen,Russia,2334,2013
+667,Udina,Russia,2886,NA
+668,Zimina,Russia,3057,NA
+669,Tolbachik,Russia,3611,2013
+670,Kamen,Russia,4585,NA
+671,Bezymianny,Russia,2882,2024
+672,Ushkovsky,Russia,3943,1890
+673,Klyuchevskoy,Russia,4754,2023
+674,Piip,Russia,-300,-5050
+675,Khangar,Russia,1967,1500
+676,Cherpuk Group,Russia,1868,-4550
+677,Sheveluch,Russia,3283,2024
+678,Ichinsky,Russia,3596,1740
+679,Bolshoi-Kekuknaysky,Russia,1401,-5310
+680,Alney-Chashakondzha,Russia,2570,1600
+681,Shisheika,Russia,355,-2240
+682,Terpuk,Russia,765,-800
+683,Sedanka Lava Field,Russia,1399,-7050
+684,Gorny Institute,Russia,2125,1250
+685,Kinenin,Russia,583,850
+686,Bliznetsy,Russia,265,-1060
+687,Titila,Russia,1523,-550
+688,Elovsky,Russia,1381,-7550
+689,Nylgimelkin,Russia,1764,-3550
+690,Spokoiny,Russia,2171,-3450
+691,Ostry,Russia,2552,-2050
+692,Severny,Russia,1936,-1550
+693,Udokan Plateau,Russia,2180,-220
+694,Vitim Volcanic Field,Russia,1250,NA
+695,Tunkin Depression,Russia,1200,NA
+696,Jom-Bolok,Russia,2047,-5180
+697,Azas Plateau,Russia,2765,NA
+698,Taryatu-Chulutu,Mongolia,2326,-2980
+699,Khanuy Gol,Mongolia,1886,NA
+700,Dariganga Volcanic Field,Mongolia,1778,NA
+701,Ashikule Volcanic Field,China,5090,1951
+702,Honggeertu,China,1605,NA
+703,Arxan-Chaihe,China,1677,0
+704,Keluo Group,China,670,NA
+705,Wudalianchi,China,597,1776
+706,Jingpohu,China,1000,-520
+707,Longgang Group,China,1000,350
+708,Changbaishan,China-North Korea,2744,1903
+709,Ch'uga-ryong,North Korea-South Korea,452,NA
+710,Ulleungdo,South Korea,984,-2990
+711,Halla,South Korea,1919,1007
+712,Buldir,United States,656,NA
+713,Kiska,United States,1220,1990
+714,Segula,United States,1160,NA
+715,Davidof,United States,328,NA
+716,Little Sitkin,United States,1174,1830
+717,Semisopochnoi,United States,1221,2023
+718,Gareloi,United States,1573,1989
+719,Tanaga,United States,1806,1914
+720,Takawangha,United States,1449,1550
+721,Bobrof,United States,738,NA
+722,Kanaga,United States,1307,2023
+723,Moffett,United States,1196,-1600
+724,Great Sitkin,United States,1740,2024
+725,Kasatochi,United States,314,2008
+726,Koniuji,United States,273,-1150
+727,Atka Volcanic Complex,United States,1518,2024
+728,Seguam,United States,1054,1993
+729,Amukta,United States,1066,1997
+730,Chagulak,United States,1142,NA
+731,Yunaska,United States,550,1937
+732,Herbert,United States,1280,NA
+733,Carlisle,United States,1620,1828
+734,Cleveland,United States,1730,2020
+735,Tana,United States,1170,NA
+736,Uliaga,United States,888,NA
+737,Kagamil,United States,893,1929
+738,Vsevidof,United States,2149,1878
+739,Recheschnoi,United States,1984,NA
+740,Okmok,United States,1073,2008
+741,Bogoslof,United States,150,2017
+742,Makushin,United States,1800,1995
+743,Akutan,United States,1303,1992
+744,Westdahl,United States,1563,1992
+745,Fisher,United States,1112,1830
+746,Shishaldin,United States,2857,2023
+747,Roundtop,United States,1871,-7600
+748,Amak,United States,547,1796
+749,Frosty,United States,1728,NA
+750,Dutton,United States,1465,NA
+751,Emmons Lake Volcanic Center,United States,1534,NA
+752,Pavlof,United States,2493,2022
+753,Pavlof Sister,United States,2142,NA
+754,Dana,United States,1354,-1890
+755,Kupreanof,United States,1895,NA
+756,Veniaminof,United States,2507,2021
+757,Black Peak,United States,1032,-1900
+758,Aniakchak,United States,1341,1931
+759,Yantarni,United States,1345,-800
+760,Chiginagak,United States,2221,1998
+761,Kialagvik,United States,1677,NA
+762,Ugashik-Peulik,United States,1474,1814
+763,Ukinrek Maars,United States,91,1977
+764,Unnamed,United States,402,NA
+765,Martin,United States,1863,1953
+766,Mageik,United States,2165,-500
+767,Trident,United States,1864,1974
+768,Katmai,United States,2047,1912
+769,Novarupta,United States,841,1912
+770,Griggs,United States,2317,-1790
+771,Snowy Mountain,United States,2162,1710
+772,Denison,United States,2287,NA
+773,Steller,United States,2272,NA
+774,Kukak,United States,2043,NA
+775,Kaguyak,United States,901,-3850
+776,Fourpeaked,United States,2105,2006
+777,Douglas,United States,2140,NA
+778,Augustine,United States,1218,2006
+779,Iliamna,United States,3053,1876
+780,Redoubt,United States,3108,2009
+781,Spurr,United States,3374,1992
+782,Hayes,United States,3034,1200
+783,St. Paul Island,United States,203,-1280
+784,Ingakslugwat Hills,United States,190,NA
+785,St. Michael,United States,715,NA
+786,Imuruk Lake,United States,610,300
+787,Buzzard Creek,United States,830,-1050
+788,Wrangell,United States,4278,1912
+789,Churchill,United States,5005,847
+790,Edgecumbe,United States,970,-2080
+791,Duncan Canal,United States,15,NA
+792,Tlevak Strait-Suemez Island,United States,50,NA
+793,Behm Canal-Rudyerd Bay,United States,500,NA
+794,Fort Selkirk,Canada,1239,NA
+795,Alligator Lake,Canada,2217,NA
+796,Atlin Volcanic Field,Canada,1880,NA
+797,Tuya Volcanic Field,Canada,2123,NA
+798,Heart Peaks,Canada,2012,NA
+799,Level Mountain,Canada,2164,NA
+800,Edziza,Canada,2786,950
+801,Spectrum Range,Canada,2430,NA
+802,Hoodoo Mountain,Canada,1850,-7050
+803,Iskut-Unuk River Cones,Canada,1880,1800
+804,Tseax River Cone,Canada,612,1690
+805,Crow Lagoon,Canada,335,NA
+806,Milbanke Sound Group,Canada,233,NA
+807,Nazko,Canada,1238,-5220
+808,Wells Gray-Clearwater,Canada,2576,1550
+809,Silverthrone,Canada,2860,NA
+810,Bridge River Cones,Canada,2500,NA
+811,Meager,Canada,2680,-410
+812,Garibaldi Lake,Canada,2316,NA
+813,Garibaldi,Canada,2678,-8060
+814,Cayley Volcanic Field,Canada,2375,NA
+815,Baker,United States,3285,1880
+816,Glacier Peak,United States,3213,1700
+817,Rainier,United States,4392,1450
+818,Adams,United States,3742,950
+819,St. Helens,United States,2549,2008
+820,West Crater,United States,1329,-5750
+821,Indian Heaven,United States,1806,-6250
+822,Hood,United States,3426,1866
+823,Jefferson,United States,3199,950
+824,Blue Lake Crater,United States,1136,680
+825,Sand Mountain Field,United States,1664,-950
+826,Belknap,United States,2095,480
+827,Three Sisters,United States,3159,439
+828,Bachelor,United States,2763,-5800
+829,Davis Lake,United States,2163,-2790
+830,Newberry,United States,2434,690
+831,Devils Garden,United States,1698,NA
+832,Cinnamon Butte,United States,1958,NA
+833,Crater Lake,United States,2487,-2850
+834,Diamond Craters,United States,1435,-5610
+835,Jordan Craters,United States,1473,-1250
+836,Shasta,United States,4317,1250
+837,Medicine Lake,United States,2412,1060
+838,Lassen Volcanic Center,United States,3187,1917
+839,Clear Lake Volcanic Field,United States,1439,NA
+840,Mono Lake Volcanic Field,United States,2121,1790
+841,Mono-Inyo Craters,United States,2796,1380
+842,Mammoth Mountain,United States,3369,1260
+843,Ubehebe Craters,United States,752,-150
+844,Salton Buttes,United States,-40,210
+845,Black Butte Crater Lava Field,United States,1478,-8400
+846,Craters of the Moon,United States,2005,-130
+847,Wapi Lava Field,United States,1597,-300
+848,Hell's Half Acre,United States,1631,-3250
+849,Soda Lakes,United States,1251,NA
+850,Markagunt Plateau,United States,2840,1050
+851,Black Rock Desert,United States,1800,1290
+852,Dotsero,United States,2230,-2200
+853,Uinkaret Field,United States,1555,1100
+854,San Francisco Volcanic Field,United States,3850,1075
+855,Carrizozo,United States,1731,-3250
+856,Zuni-Bandera,United States,2550,-1170
+857,Red Hill,United States,2300,-9450
+858,Endeavour Segment,Canada,-2050,-3490
+859,Cobb Segment,Canada,-2100,-1180
+860,CoAxial Segment,Undersea Features,-2400,1993
+861,Axial Seamount,Undersea Features,-1410,2015
+862,Cleft Segment,Undersea Features,-2140,1986
+863,North Gorda Ridge Segment,United States,-3000,1996
+864,Escanaba Segment,United States,-1700,-2260
+865,Kama'ehuakanaloa,United States,-975,1996
+866,Kilauea,United States,1222,2024
+867,Mauna Loa,United States,4170,2022
+868,Mauna Kea,United States,4205,-2460
+869,Hualalai,United States,2523,1801
+870,Haleakala,United States,3055,1750
+871,Teahitia,France,-1743,1985
+872,Rocard,France,-2515,1972
+873,Moua Pihaa,France,-312,1970
+874,Mehetia,France,389,NA
+875,Adams Seamount,United Kingdom,-39,-50
+876,Macdonald,France,-39,1989
+877,Northern EPR at 17°N,Mexico,-2700,-50
+878,Northern EPR at 16°N,Mexico,-2300,-50
+879,Northern EPR at 10.7°N,Undersea Features,-2900,2003
+880,Northern EPR at 9.8°N,Undersea Features,-2500,2006
+881,Galapagos Rift,Ecuador,-2430,1996
+882,Southern EPR at 8°S,Undersea Features,-2800,1969
+883,Southern EPR at 17.5°S (Segment K),Undersea Features,-2566,1990
+884,Southern EPR at 18.2°S (Segment J),Undersea Features,-2650,1890
+885,Southern EPR at 18.5°S (Segment I),Undersea Features,-2600,1915
+886,Hollister Ridge,Undersea Features,-1000,NA
+887,Udintsev Transform,Undersea Features,-5700,NA
+888,"Prieto, Cerro",Mexico,223,NA
+889,Pinacate,Mexico,1183,NA
+890,"San Luis, Isla",Mexico,180,NA
+891,Jaraguay Volcanic Field,Mexico,960,NA
+892,Coronado,Mexico,440,NA
+893,San Borja Volcanic Field,Mexico,1360,NA
+894,"Tortuga, Isla",Mexico,224,NA
+895,Comondu-La Purisima,Mexico,780,NA
+896,Socorro,Mexico,1050,1994
+897,Durango Volcanic Field,Mexico,2075,NA
+898,Sanganguey,Mexico,2340,NA
+899,Barcena,Mexico,332,1953
+900,Mascota Volcanic Field,Mexico,2525,NA
+901,Ceboruco,Mexico,2280,1875
+902,Colima,Mexico,3850,2019
+903,Zitacuaro-Valle de Bravo,Mexico,3500,-3050
+904,Jocotitlan,Mexico,3900,1270
+905,Michoacan-Guanajuato,Mexico,3860,1952
+906,"Toluca, Nevado de",Mexico,4680,-1350
+907,Iztaccihuatl,Mexico,5230,NA
+908,Chichinautzin,Mexico,3938,399
+909,"Malinche, La",Mexico,4461,-1170
+910,Serdan-Oriental,Mexico,3485,NA
+911,"Humeros, Los",Mexico,3150,-4470
+912,"Atlixcos, Los",Mexico,775,NA
+913,Naolinco Volcanic Field,Mexico,2000,-1200
+914,Cofre de Perote,Mexico,4282,1150
+915,"Gloria, La",Mexico,3500,NA
+916,"Cumbres,  Las",Mexico,3940,-3920
+917,Popocatepetl,Mexico,5393,2024
+918,"Orizaba, Pico de",Mexico,5564,1846
+919,San Martin,Mexico,1650,1796
+920,"Chichon, El",Mexico,1150,1982
+921,Tacana,Mexico-Guatemala,4064,1986
+922,Tajumulco,Guatemala,4203,NA
+923,Santa Maria,Guatemala,3745,2024
+924,Almolonga,Guatemala,3173,1818
+925,Atitlan,Guatemala,3535,1853
+926,Toliman,Guatemala,3158,NA
+927,Acatenango,Guatemala,3976,1972
+928,Fuego,Guatemala,3763,2024
+929,Agua,Guatemala,3760,NA
+930,Cuilapa-Barbarena,Guatemala,1454,NA
+931,Pacaya,Guatemala,2569,2021
+932,Jumaytepeque,Guatemala,1802,NA
+933,Tecuamburro,Guatemala,1845,-960
+934,Moyuta,Guatemala,1662,NA
+935,Flores,Guatemala,1600,NA
+936,Tahual,Guatemala,1716,NA
+937,"Santiago, Cerro",Guatemala,1192,NA
+938,Suchitan,Guatemala,2042,NA
+939,Chingo,Guatemala-El Salvador,1775,NA
+940,Ixtepeque,Guatemala,1292,NA
+941,San Diego,El Salvador-Guatemala,781,NA
+942,"Singuil, Cerro",El Salvador,926,NA
+943,Apaneca Range,El Salvador,2028,NA
+944,Santa Ana,El Salvador,2381,2005
+945,Izalco,El Salvador,1950,1966
+946,Coatepeque Caldera,El Salvador,746,NA
+947,"Cinotepeque, Cerro",El Salvador,665,NA
+948,Guazapa,El Salvador,1438,NA
+949,San Salvador,El Salvador,1893,1917
+950,Ilopango,El Salvador,450,1880
+951,Apastepeque Field,El Salvador,700,NA
+952,Taburete,El Salvador,1172,NA
+953,San Vicente,El Salvador,2182,NA
+954,Usulutan,El Salvador,1449,NA
+955,"Tigre, El",El Salvador,1640,NA
+956,Tecapa,El Salvador,1593,NA
+957,Chinameca,El Salvador,1300,NA
+958,"Aramuaca, Laguna",El Salvador,181,NA
+959,San Miguel,El Salvador,2130,2023
+960,"Tigre, Isla del",Honduras,774,NA
+961,"Zacate Grande, Isla",Honduras,640,NA
+962,"Yojoa, Lago",Honduras,1060,-7638
+963,Cosiguina,Nicaragua,872,1859
+964,San Cristobal,Nicaragua,1745,2023
+965,Telica,Nicaragua,1036,2022
+966,"Negro, Cerro",Nicaragua,728,1999
+967,Las Pilas-El Hoyo Complex,Nicaragua,1088,1954
+968,Apoyeque,Nicaragua,518,-50
+969,Nejapa-Miraflores,Nicaragua,360,1060
+970,Momotombo,Nicaragua,1270,2016
+971,Granada,Nicaragua,250,NA
+972,Masaya,Nicaragua,594,2024
+973,Zapatera,Nicaragua,629,NA
+974,Mombacho,Nicaragua,1344,NA
+975,Concepcion,Nicaragua,1700,2024
+976,Orosi,Costa Rica,1659,NA
+977,Rincon de la Vieja,Costa Rica,1916,2024
+978,Tenorio,Costa Rica,1916,NA
+979,Arenal,Costa Rica,1670,2010
+980,Platanar,Costa Rica,2267,NA
+981,Miravalles,Costa Rica,2028,1946
+982,Poas,Costa Rica,2697,2024
+983,Barva,Costa Rica,2906,-6050
+984,Irazu,Costa Rica,3436,1977
+985,Turrialba,Costa Rica,3340,2022
+986,Baru,Panama,3474,1550
+987,Romeral,Colombia,3769,-5390
+988,"Bravo, Cerro",Colombia,3985,1720
+989,Santa Isabel,Colombia,4944,-850
+990,"Ruiz, Nevado del",Colombia,5279,2024
+991,"Tolima, Nevado del",Colombia,5215,1943
+992,Machin,Colombia,2749,1180
+993,"Huila, Nevado del",Colombia,5364,2012
+994,Sotara,Colombia,4400,NA
+995,Purace,Colombia,4650,2023
+996,Dona Juana,Colombia,4137,1906
+997,Galeras,Colombia,4276,2014
+998,Azufral,Colombia,4070,-930
+999,Cumbal,Colombia,4764,1926
+1000,Chiles-Cerro Negro,Colombia-Ecuador,4698,1936
+1001,Soche,Ecuador,3955,-6650
+1002,Chachimbiro,Ecuador,4106,-3740
+1003,Cuicocha,Ecuador,3246,650
+1004,Imbabura,Ecuador,4609,-5550
+1005,Mojanda,Ecuador,4263,NA
+1006,Cayambe,Ecuador,5790,1786
+1007,Pululahua,Ecuador,3360,290
+1008,Reventador,Ecuador,3562,2024
+1009,Atacazo,Ecuador,4463,-320
+1010,Chacana,Ecuador,4643,1773
+1011,Guagua Pichincha,Ecuador,4784,2002
+1012,Aliso,Ecuador,4267,-2450
+1013,Antisana,Ecuador,5753,1802
+1014,Iliniza,Ecuador,5162,NA
+1015,Sumaco,Ecuador,3990,1895
+1016,Cotopaxi,Ecuador,5911,2023
+1017,Quilotoa,Ecuador,3914,1280
+1018,Chimborazo,Ecuador,6261,550
+1019,Licto,Ecuador,3322,NA
+1020,Tungurahua,Ecuador,5023,2016
+1021,Sangay,Ecuador,5286,2024
+1022,Ecuador,Ecuador,790,1150
+1023,Fernandina,Ecuador,1476,2024
+1024,Wolf,Ecuador,1710,2022
+1025,Darwin,Ecuador,1330,1813
+1026,Alcedo,Ecuador,1130,1993
+1027,"Negra, Sierra",Ecuador,1124,2018
+1028,"Azul, Cerro",Ecuador,1640,2008
+1029,Pinta,Ecuador,780,1928
+1030,Genovesa,Ecuador,64,NA
+1031,Marchena,Ecuador,343,1991
+1032,Santa Cruz,Ecuador,864,NA
+1033,Santiago,Ecuador,920,1906
+1034,San Cristobal,Ecuador,759,NA
+1035,Kimsachata-Oroscocha,Peru,3848,-4450
+1036,"Auquihuato, Cerro",Peru,4980,NA
+1037,Sara Sara,Peru,5522,NA
+1038,Coropuna,Peru,6377,NA
+1039,Andahua-Orcopampa,Peru,4713,1490
+1040,Huambo,Peru,4554,-700
+1041,Sabancaya,Peru,5960,2024
+1042,"Chachani, Nevado",Peru,6057,NA
+1043,"Misti, El",Peru,5822,1985
+1044,Ubinas,Peru,5608,2024
+1045,Ticsani,Peru,5382,1800
+1046,Huaynaputina,Peru,4679,1600
+1047,Tutupaca,Peru,5801,1802
+1048,Yucamane,Peru,5495,-1320
+1049,"Casiri, Nevados",Peru,5626,NA
+1050,Taapaca,Chile,5860,-320
+1051,Parinacota,Chile-Bolivia,6336,290
+1052,Tacora,Chile-Peru,5960,NA
+1053,Guallatiri,Chile,6071,1960
+1054,Tata Sabaya,Bolivia,5430,NA
+1055,Isluga,Chile,5550,1913
+1056,Irruputuncu,Chile-Bolivia,5163,1995
+1057,Olca-Paruma,Chile-Bolivia,5705,NA
+1058,Sairecabur,Chile-Bolivia,5961,NA
+1059,Licancabur,Chile-Bolivia,5916,NA
+1060,Guayaques,Chile-Bolivia,5598,NA
+1061,Purico Complex,Chile,5703,NA
+1062,Colachi,Chile,5631,NA
+1063,Acamarachi,Chile,6023,NA
+1064,Chiliques,Chile,5778,NA
+1065,Putana,Chile,5884,1810
+1066,Cordon de Puntas Negras,Chile,5852,NA
+1067,Miniques,Chile,5910,NA
+1068,"Tujle, Cerro",Chile,3550,NA
+1069,Caichinque,Chile,4458,NA
+1070,Tilocalar,Chile,3109,NA
+1071,Pular,Chile,6233,NA
+1072,"Negrillar, La",Chile,4220,NA
+1073,Socompa,Chile-Argentina,6031,-5250
+1074,Lascar,Chile,5592,2023
+1075,Corrida de Cori Volcanic Field,Chile-Argentina,5451,NA
+1076,Llullaillaco,Chile-Argentina,6739,1877
+1077,Cordon del Azufre,Chile-Argentina,5481,NA
+1078,"Bayo Gorbea, Cerro",Chile-Argentina,5413,NA
+1079,"Nevada, Sierra",Chile-Argentina,6173,NA
+1080,Falso Azufre,Chile-Argentina,5906,NA
+1081,"Incahuasi, Nevado de",Chile-Argentina,6638,NA
+1082,Lastarria,Chile-Argentina,5706,NA
+1083,"Solo, El",Chile-Argentina,6205,NA
+1084,"Ojos del Salado, Nevados",Chile-Argentina,6879,750
+1085,Tuzgle,Argentina,5486,NA
+1086,Aracar,Argentina,6095,NA
+1087,Unnamed,Argentina,4652,NA
+1088,Antofagasta Volcanic Field,Argentina,3495,NA
+1089,"Condor, El",Argentina,6373,NA
+1090,Peinado,Argentina,5741,NA
+1091,"Blanco, Cerro",Argentina,4670,-2300
+1092,Tipas,Argentina,6658,NA
+1093,Rapa Nui,Chile,501,NA
+1094,Tupungatito,Chile-Argentina,5660,1987
+1095,Maipo,Chile-Argentina,5323,1912
+1096,Palomo,Chile,4860,NA
+1097,"Atuel, Caldera del",Argentina,5189,NA
+1098,Risco Plateado,Argentina,4999,NA
+1099,San Jose,Chile-Argentina,6070,1960
+1100,Tinguiririca,Chile,4280,1917
+1101,Infiernillo,Argentina,3007,-6890
+1102,Calabozos,Chile,3508,NA
+1103,Planchon-Peteroa,Chile,3977,2019
+1104,Descabezado Grande,Chile,3953,1933
+1105,"Maule, Laguna del",Chile,2162,-50
+1106,San Pedro-Pellado,Chile,3621,NA
+1107,"Longavi, Nevado de",Chile,3175,-4890
+1108,"Blancas, Lomas",Chile,2268,NA
+1109,"Resago, Volcan",Chile,1890,NA
+1110,Payun Matru,Argentina,3715,-5050
+1111,"Azul, Cerro",Chile,3788,1967
+1112,Tromen Volcanic Plateau,Argentina,4114,1822
+1113,"Chillan, Nevados de",Chile,3180,2022
+1114,Antuco,Chile,2979,1869
+1115,Callaqui,Chile,3164,1980
+1116,Tolhuaca,Chile,2739,-4000
+1117,Copahue,Chile-Argentina,2953,2021
+1118,"Blanca, Laguna",Argentina,1700,NA
+1119,Lonquimay,Chile,2832,1990
+1120,Sollipulli,Chile,2282,1240
+1121,Caburgua-Huelemolle,Chile,1652,-5050
+1122,Llaima,Chile,3125,2009
+1123,Quetrupillan,Chile,2360,255
+1124,Lanin,Chile-Argentina,3776,560
+1125,Huanquihue Group,Argentina,2189,1750
+1126,Villarrica,Chile,2847,2024
+1127,Mocho-Choshuenco,Chile,2422,1937
+1128,Carran-Los Venados,Chile,1114,1979
+1129,Antillanca Volcanic Complex,Chile,1979,-230
+1130,Puyehue-Cordon Caulle,Chile,2236,2012
+1131,Puntiagudo-Cordon Cenizos,Chile,2493,1850
+1132,Tronador,Chile-Argentina,3478,NA
+1133,Cayutue-La Vigueria,Chile,506,-190
+1134,Osorno,Chile,2659,1869
+1135,Yate,Chile,2187,1090
+1136,Hornopiren,Chile,1572,340
+1137,Apagado,Chile,1210,-590
+1138,Crater Basalt Volcanic Field,Argentina,1344,NA
+1139,Calbuco,Chile,1974,2015
+1140,Huequi,Chile,1318,1920
+1141,Chaiten,Chile,1122,2011
+1142,Michinmahuida,Chile,2452,1835
+1143,Yanteles,Chile,1790,-6650
+1144,Melimoyu,Chile,2400,200
+1145,Puyuhuapi,Chile,524,NA
+1146,Mentolat,Chile,1660,1710
+1147,Cay,Chile,2090,NA
+1148,Maca,Chile,2960,1560
+1149,"Hudson, Cerro",Chile,1905,2011
+1150,Corcovado,Chile,1826,-4920
+1151,Aguilera,Chile,2546,-1253
+1152,Reclus,Chile,1403,1908
+1153,Lautaro,Chile,3542,1979
+1154,"Burney, Monte",Chile,1758,1910
+1155,Pali-Aike Volcanic Field,Chile-Argentina,282,-5550
+1156,Fueguino,Chile,157,1820
+1157,Saba,Netherlands,887,1640
+1158,"Quill, The",Netherlands,601,250
+1159,Liamuiga,Saint Kitts and Nevis,1156,160
+1160,Nevis Peak,Saint Kitts and Nevis,985,NA
+1161,Soufriere Hills,United Kingdom,915,2013
+1162,Soufriere Guadeloupe,France,1467,1977
+1163,"Diables, Morne aux",Dominica,861,NA
+1164,"Diablotins, Morne",Dominica,1430,NA
+1165,"Watt, Morne",Dominica,1224,1997
+1166,"Trois Pitons, Morne",Dominica,1387,920
+1167,"Plat Pays, Morne",Dominica,940,1270
+1168,Pelee,France,1372,1932
+1169,Qualibou,Saint Lucia,777,1766
+1170,Soufriere St. Vincent,Saint Vincent and the Grenadines,1220,2021
+1171,Kick 'em Jenny,Grenada,-185,2017
+1172,St. Catherine,Grenada,840,NA
+1173,Snaefellsjokull,Iceland,1446,200
+1174,Helgrindur,Iceland,986,NA
+1175,Ljosufjoll,Iceland,1063,960
+1176,Reykjanes,Iceland,140,2024
+1177,Krysuvik-Trolladyngja,Iceland,360,1340
+1178,Brennisteinsfjoll,Iceland,610,1341
+1179,Hromundartindur,Iceland,550,NA
+1180,Hengill,Iceland,803,150
+1181,Grimsnes,Iceland,200,-3500
+1182,Prestahnukur,Iceland,1385,-3350
+1183,Oddnyjarhnjukur-Langjokull,Iceland,1100,950
+1184,Hofsjokull,Iceland,1765,NA
+1185,Vestmannaeyjar,Iceland,283,1973
+1186,Eyjafjallajokull,Iceland,1651,2010
+1187,Katla,Iceland,1490,1918
+1188,Tindfjallajokull,Iceland,1464,NA
+1189,Torfajokull,Iceland,1280,1477
+1190,Hekla,Iceland,1490,2000
+1191,Grimsvotn,Iceland,1719,2011
+1192,Bardarbunga,Iceland,2000,2015
+1193,Tungnafellsjokull,Iceland,1523,NA
+1194,Kverkfjoll,Iceland,1930,1968
+1195,Askja,Iceland,1080,1961
+1196,Fremrinamar,Iceland,970,-1200
+1197,Krafla,Iceland,800,1984
+1198,Theistareykir,Iceland,563,-900
+1199,Tjornes Fracture Zone,Iceland,-75,1868
+1200,Oraefajokull,Iceland,2010,1728
+1201,Esjufjoll,Iceland,1620,NA
+1202,Snaefell,Iceland,1833,NA
+1203,Kolbeinsey Ridge,Iceland,5,1755
+1204,Jan Mayen,Norway,2197,1985
+1205,East Gakkel Ridge at 85°E,Undersea Features,-3800,1999
+1206,Pico Fracture Zone,Undersea Features,-4200,1865
+1207,Flores,Portugal,914,-950
+1208,Fayal,Portugal,1041,1958
+1209,Pico,Portugal,2351,1720
+1210,Sao Jorge,Portugal,1053,1902
+1211,Graciosa,Portugal,402,-1950
+1212,Terceira,Portugal,1023,2000
+1213,Don Joao de Castro Bank,Portugal,-13,1720
+1214,Picos Fissural Volcanic System,Portugal,350,1652
+1215,Sete Cidades,Portugal,842,1880
+1216,Agua de Pau,Portugal,947,1564
+1217,Furnas,Portugal,805,1630
+1218,Monaco Bank,Portugal,-197,1911
+1219,Madeira,Portugal,1862,-4500
+1220,La Palma,Spain,2426,2021
+1221,Hierro,Spain,1500,2012
+1222,Tenerife,Spain,3715,1909
+1223,Gran Canaria,Spain,1950,40
+1224,Fuerteventura,Spain,529,NA
+1225,Lanzarote,Spain,670,1824
+1226,Fogo,Cabo Verde,2829,2015
+1227,Brava,Cabo Verde,956,NA
+1228,Romanche Fracture Zone,Undersea Features,-1528,NA
+1229,Ascension,United Kingdom,858,1508
+1230,Nightingale Island,United Kingdom,365,2004
+1231,Tristan da Cunha,United Kingdom,2060,1962
+1232,Bouvet,Norway,741,-50
+1233,Young Island,Antarctica,1340,NA
+1234,Sturge Island,Antarctica,1167,NA
+1235,"Pleiades, The",Antarctica,3040,-1050
+1236,Melbourne,Antarctica,2732,1892
+1237,Unnamed,Antarctica,-500,NA
+1238,Buckle Island,Antarctica,1239,1899
+1239,Morning,Antarctica,2723,NA
+1240,Royal Society Range,Antarctica,3000,NA
+1241,Berlin,Antarctica,3478,-8350
+1242,Andrus,Antarctica,2978,NA
+1243,Takahe,Antarctica,3460,-5550
+1244,Hudson Mountains,Antarctica,749,-207
+1245,Erebus,Antarctica,3794,2024
+1246,Penguin Island,Antarctica,180,1905
+1247,Deception Island,Antarctica,602,1970
+1248,Paulet,Antarctica,353,NA
+1249,Bridgeman Island,Antarctica,240,NA
+1250,Southern Thule,United Kingdom,1075,1975
+1251,Montagu Island,United Kingdom,1370,2007
+1252,Bristol Island,United Kingdom,1100,2016
+1253,Saunders,United Kingdom,843,2024
+1254,Candlemas Island,United Kingdom,550,1911
+1255,Hodson,United Kingdom,835,NA
+1256,Leskov Island,United Kingdom,190,NA
+1257,Zavodovski,United Kingdom,551,2016
+1258,Protector Seamounts,United Kingdom,-55,1962
+1259,Melville,Antarctica,549,NA
+1260,Mount Haddington Volcanic Field,Antarctica,1630,NA
+1261,Jackson Segment,United States,-3100,NA
+1262,South Sarigan Seamount,United States,-184,2010
+1263,Walvis Ridge at 33°S,Undersea Features,-1200,2002
+1264,Havre Seamount,New Zealand,-897,2012
+1265,Odamoisan [Tebenkov],Japan - administered by Russia,1208,NA
+1266,Niuatahi,Tonga,-1270,NA
+1267,Tenchozan,Japan,1046,NA
+1268,Akandanayama,Japan,2109,NA
+1269,Dugong,Tonga,-1170,NA
+1270,Lobster,Tonga,-1500,NA
+1271,Meullin,Chile,1080,NA
+1272,West Valley Segment,Canada,-2550,NA
+1273,East Blanco Depression,Undersea Features,-3000,NA
+1274,Marsili,Italy,-779,-1050
+1275,Mariana Back-Arc Segment at 15.5°N,United States,-4100,2015
+1276,Heidarspordar,Iceland,490,-300
+1277,Eldey,Iceland,70,1926
+1278,Thordarhyrna,Iceland,1650,1904
+1279,Northern Lake Abaya Volcanic Field,Ethiopia,1594,NA
+1280,Mega Volcanic Field,Ethiopia,1500,NA
+1281,Stepovak Bay Group,United States,1633,NA
+1282,Malumalu,United States,-145,NA
+1283,Fagradalsfjall,Iceland,250,2023
+1284,West Eifel Volcanic Field,Germany,600,-8300
+1285,Chaine des Puys,France,1464,-4040
+1286,Olot Volcanic Field,Spain,893,NA
+1287,Calatrava Volcanic Field,Spain,1117,-3600
+1288,Colli Albani,Italy,949,NA
+1289,Campi Flegrei,Italy,458,1538
+1290,Vesuvius,Italy,1281,1944
+1291,Palinuro,Italy,-70,-8040
+1292,Ischia,Italy,789,1302
+1293,Panarea,Italy,399,NA
+1294,Lipari,Italy,590,1230
+1295,Stromboli,Italy,924,2024
+1296,Vulcano,Italy,500,1890
+1297,Etna,Italy,3357,2024
+1298,Pantelleria,Italy,836,1891
+1299,Campi Flegrei del Mar di Sicilia,Italy,-8,1867
+1300,Methana,Greece,380,-258
+1301,Milos,Greece,751,140
+1302,Santorini,Greece,367,1950
+1303,Nisyros,Greece,698,1888
+1304,Kula,Turkiye,750,NA
+1305,Hasandag-Keciboyduran Volcanic Complex,Turkiye,3253,NA
+1306,Karaca Dag,Turkiye,1957,NA
+1307,Erciyes Volcanic Complex,Turkiye,3864,-6880
+1308,Nemrut Dagi,Turkiye,2948,1650
+1309,Tenduruk Dagi,Turkiye,3514,1855
+1310,Ararat,Turkiye,5165,1840
+1311,Elbrus,Russia,5642,50
+1312,Kazbek,Georgia,5050,-750
+1313,Samsari Volcanic Center,Georgia,3290,NA
+1314,Aragats,Armenia,4095,NA
+1315,Ghegham Volcanic Ridge,Armenia,3597,-1900
+1316,Vaiyots-Sar,Armenia,2575,-2000
+1317,Porak,Armenia-Azerbaijan,3029,-778
+1318,Tskhouk-Karckar,Armenia-Azerbaijan,3139,-3000
+1319,"Tair, Jebel at",Yemen,244,2008
+1320,Zukur,Yemen,624,NA
+1321,Hanish,Yemen,422,NA
+1322,Zubair Group,Yemen,191,2013
+1323,Dallol,Ethiopia,-48,2011
+1324,Alid,Eritrea,904,NA
+1325,Gada Ale,Ethiopia,287,NA
+1326,Alu-Dalafilla,Ethiopia,578,2008
+1327,Bora Ale,Ethiopia,668,NA
+1328,Erta Ale,Ethiopia,585,2024
+1329,Hayli Gubbi,Ethiopia,493,NA
+1330,Ale Bagu,Ethiopia,988,NA
+1331,Nabro,Eritrea,2218,2012
+1332,Mallahle,Ethiopia-Eritrea,1875,NA
+1333,Sork Ale,Ethiopia-Eritrea,1611,NA
+1334,Asavyo,Ethiopia,1338,NA
+1335,Mat Ala,Ethiopia,493,NA
+1336,Tat Ali,Ethiopia,655,NA
+1337,Borawli,Ethiopia,784,NA
+1338,Dubbi,Eritrea,1625,1861
+1339,Ma Alalta,Ethiopia,1745,NA
+1340,Alayta,Ethiopia,1496,1915
+1341,Dabbahu,Ethiopia,1401,2005
+1342,Dabbayra,Ethiopia,1302,NA
+1343,Manda Hararo,Ethiopia,600,2009
+1344,Groppo,Ethiopia,852,NA
+1345,Afdera,Ethiopia,1250,NA
+1346,Manda Gargori,Ethiopia,700,NA
+1347,Manda-Inakir,Ethiopia-Djibouti,600,1928
+1348,Mousa Alli,Ethiopia-Eritrea-Djibouti,1993,NA
+1349,Gufa,Eritrea-Djibouti,600,NA
+1350,Assab Volcanic Field,Eritrea,987,NA
+1351,Ardoukoba,Djibouti,298,1978
+1352,Kurub,Ethiopia,625,NA
+1353,Dama Ali,Ethiopia,1068,1631
+1354,Yangudi,Ethiopia,1383,NA
+1355,Gabillema,Ethiopia,1459,NA
+1356,Ayelu,Ethiopia,2145,NA
+1357,Hertali,Ethiopia,900,NA
+1358,Liado Hayk,Ethiopia,878,NA
+1359,Adwa,Ethiopia,1670,NA
+1360,Dofan,Ethiopia,1151,NA
+1361,Beru,Ethiopia,1100,NA
+1362,Fentale,Ethiopia,2007,1820
+1363,Kone,Ethiopia,1380,1820
+1364,Boset,Ethiopia,2447,NA
+1365,Bishoftu Volcanic Field,Ethiopia,1850,NA
+1366,Melkassa,Ethiopia,1765,NA
+1367,Gedemsa,Ethiopia,1909,NA
+1368,Bora-Bericha-Tullu Moye,Ethiopia,2345,1900
+1369,Unnamed,Ethiopia,1886,NA
+1370,East Ziway,Ethiopia,1889,NA
+1371,Butajiri-Silti Field,Ethiopia,2281,NA
+1372,Aluto,Ethiopia,2335,1550
+1373,Shala,Ethiopia,2075,NA
+1374,Corbetti,Ethiopia,2289,-396
+1375,Bilate River Field,Ethiopia,1700,NA
+1376,Korath Range,Ethiopia,912,NA
+1377,Lake Turkana North Island,Kenya,490,NA
+1378,Lake Turkana Central Island,Kenya,518,NA
+1379,Marsabit,Kenya,1707,NA
+1380,Lake Turkana South Island,Kenya,800,1888
+1381,"Barrier, The",Kenya,1032,1921
+1382,Namarunu,Kenya,817,-6550
+1383,Segererua Plateau,Kenya,699,NA
+1384,Emuruangogolak,Kenya,1285,1910
+1385,Silali,Kenya,1528,-5050
+1386,Paka,Kenya,1697,-7550
+1387,Korosi,Kenya,1446,NA
+1388,Ol Kokwe,Kenya,1130,NA
+1389,Nyambeni Hills,Kenya,750,NA
+1390,Menengai,Kenya,2278,-6050
+1391,Elmenteita Badlands,Kenya,2126,NA
+1392,Homa Mountain,Kenya,1751,NA
+1393,"Eburru, Ol Doinyo",Kenya,2856,NA
+1394,Olkaria,Kenya,2434,1770
+1395,Longonot,Kenya,2776,1863
+1396,Suswa,Kenya,2356,NA
+1397,"Lengai, Ol Doinyo",Tanzania,2962,2024
+1398,Chyulu Hills,Kenya,2188,1855
+1399,Igwisi Hills,Tanzania,1146,-10450
+1400,Ngozi,Tanzania,2614,1450
+1401,Rungwe,Tanzania,2953,1250
+1402,Meru,Tanzania,4550,1910
+1403,Kyejo,Tanzania,2176,1800
+1404,Fort Portal,Uganda,1615,-2120
+1405,Kyatwa,Uganda,1430,NA
+1406,Katwe-Kikorongo,Uganda,1067,NA
+1407,Bunyaruguru,Uganda,1554,NA
+1408,Katunga,Uganda,1707,NA
+1409,Nyamulagira,DR Congo,3058,2024
+1410,Nyiragongo,DR Congo,3470,2024
+1411,Karisimbi,DR Congo-Rwanda,4490,-8050
+1412,Visoke,DR Congo-Rwanda,3696,1957
+1413,Muhavura,Uganda-Rwanda,4103,NA
+1414,Bufumbira,Uganda,2100,NA
+1415,San Carlos,Equatorial Guinea,2260,NA
+1416,San Joaquin,Equatorial Guinea,2009,NA
+1417,Santa Isabel,Equatorial Guinea,2999,1923
+1418,Tombel Graben,Cameroon,500,NA
+1419,Cameroon,Cameroon,4095,2000
+1420,Oku Volcanic Field,Cameroon,3011,NA
+1421,Todra Volcanic Field,Niger,1780,NA
+1422,Tahalra Volcanic Field,Algeria,1467,NA
+1423,Atakor Volcanic Field,Algeria,2918,NA
+1424,Manzaz Volcanic Field,Algeria,1672,NA
+1425,"Toh, Tarso",Chad,2000,NA
+1426,"Tousside, Tarso",Chad,3265,NA
+1427,"Koussi, Emi",Chad,3415,NA
+1428,"Voon, Tarso",Chad,3100,NA
+1429,"Marra, Jebel",Sudan,3042,-2000
+1430,Kutum Volcanic Field,Sudan,1779,NA
+1431,Meidob Volcanic Field,Sudan,2000,-2950
+1432,Bayuda Volcanic Field,Sudan,670,850
+1433,"Ash Shaam, Harrat",Syria-Jordan-Saudi Arabia,1100,-2670
+1434,"Lunayyir, Harrat",Saudi Arabia,1370,1000
+1435,"Ithnayn, Harrat",Saudi Arabia,1625,NA
+1436,"Khaybar, Harrat",Saudi Arabia,2093,650
+1437,"Kishb, Harrat",Saudi Arabia,1475,NA
+1438,"Birk, Harrat al",Saudi Arabia,587,NA
+1439,"Rahat, Harrat",Saudi Arabia,1744,1256
+1440,"Yar, Jabal",Saudi Arabia,305,1810
+1441,"Arhab, Harra of",Yemen,3100,500
+1442,"Haylan, Jabal",Yemen,1550,-1200
+1443,"Dhamar, Harras of",Yemen,3500,NA
+1444,"Sawad, Harra Es-",Yemen,1737,1253
+1445,Balhaf-Bir Ali Volcanic Field,Yemen,604,NA
+1446,Bir Borhut,Yemen,464,NA
+1447,Damavand,Iran,5670,-5350
+1448,"Grille, La",Comoros,1087,NA
+1449,Mayotte,France,660,2019
+1450,Ambre-Bobaomby,Madagascar,1475,NA
+1451,Nosy-Be,Madagascar,214,NA
+1452,Ankaizina Field,Madagascar,2878,NA
+1453,Itasy Volcanic Field,Madagascar,1800,-6050
+1454,Vakinankaratra,Madagascar,2644,NA
+1455,Karthala,Comoros,2361,2007
+1456,"Fournaise, Piton de la",France,2632,2023
+1457,Boomerang Seamount,France,-650,1995
+1458,Amsterdam Island,France,881,NA
+1459,St. Paul,France,268,1793
+1460,McDonald Islands,Australia,230,2005
+1461,Heard,Australia,2745,2024
+1462,Kerguelen Islands,France,1840,NA
+1463,"Est, Ile de l'",France,1090,NA
+1464,"Possession, Ile de la",France,934,NA
+1465,"Cochons, Ile aux",France,775,NA
+1466,Prince Edward Island,South Africa,672,NA
+1467,Marion Island,South Africa,1230,2004
+1468,Kaikohe-Bay of Islands,New Zealand,388,400
+1469,Mayor Island,New Zealand,355,-5060
+1470,Auckland Volcanic Field,New Zealand,260,1446
+1471,Taranaki,New Zealand,2518,1800
+1472,Whakaari/White Island,New Zealand,294,2024
+1473,Okataina,New Zealand,1111,1981
+1474,Taupo,New Zealand,760,260
+1475,Tongariro,New Zealand,1978,2012
+1476,Clark,New Zealand,-860,NA
+1477,Tangaroa,New Zealand,-600,NA
+1478,Ruapehu,New Zealand,2797,2007
+1479,Rumble V,New Zealand,-400,NA
+1480,Rumble IV,New Zealand,-500,NA
+1481,Rumble III,New Zealand,-220,2008
+1482,Rumble II West,New Zealand,-1200,NA
+1483,Healy,New Zealand,-980,1360
+1484,Brothers,New Zealand,-1350,NA
+1485,Wright,New Zealand,-900,NA
+1486,Curtis Island,New Zealand,47,NA
+1487,Macauley,New Zealand,238,-4360
+1488,Giggenbach,New Zealand,-65,NA
+1489,Raoul Island,New Zealand,516,2006
+1490,Monowai,New Zealand,-132,2014
+1491,Unnamed,Tonga,-385,NA
+1492,Unnamed,Tonga,-65,NA
+1493,Unnamed,Tonga,-68,1932
+1494,Unnamed,Tonga,-296,2017
+1495,Hunga Tonga-Hunga Ha'apai,Tonga,114,2022
+1496,Fonuafo'ou,Tonga,-17,1936
+1497,Kao,Tonga,1009,1847
+1498,Tofua,Tonga,515,2024
+1499,Lateiki,Tonga,43,2019
+1500,Home Reef,Tonga,-10,2023
+1501,Unnamed,Tonga,-40,2019
+1502,Late,Tonga,540,1854
+1503,Tafahi,Tonga,546,NA
+1504,Curacoa,Tonga,-33,1979
+1505,Fonualei,Tonga,188,1957
+1506,Niuafo'ou,Tonga,260,1946
+1507,Tafu-Maka,Tonga,-1400,2008
+1508,West Mata,Tonga,-1174,2009
+1509,Vailulu'u,United States,-592,2003
+1510,Ta'u,United States,931,NA
+1511,Ofu-Olosega,United States,639,1866
+1512,Tutuila,United States,653,440
+1513,Upolu,Samoa,1100,NA
+1514,Savaii,Samoa,1858,1911
+1515,Taveuni,Fiji,1241,1550
+1516,Nabukelevu,Fiji,791,1660
+1517,St. Andrew Strait,Papua New Guinea,270,1957
+1518,Central Bismarck Sea,Papua New Guinea,-1300,1972
+1519,Blup Blup,Papua New Guinea,402,NA
+1520,Kadovar,Papua New Guinea,365,2023
+1521,Boisa,Papua New Guinea,240,NA
+1522,Bam,Papua New Guinea,685,1960
+1523,Manam,Papua New Guinea,1807,2024
+1524,Karkar,Papua New Guinea,1839,1979
+1525,Hankow Reef,Papua New Guinea,-5,NA
+1526,Long Island,Papua New Guinea,1280,1993
+1527,Umboi,Papua New Guinea,1335,NA
+1528,Ritter Island,Papua New Guinea,75,2007
+1529,Sakar,Papua New Guinea,992,NA
+1530,Langila,Papua New Guinea,1330,2024
+1531,Dakataua,Papua New Guinea,408,1895
+1532,Bola,Papua New Guinea,1116,NA
+1533,Garua Harbour,Papua New Guinea,565,NA
+1534,Lolo,Papua New Guinea,796,NA
+1535,Krummel-Garbuna-Welcker,Papua New Guinea,564,2008
+1536,Witori,Papua New Guinea,724,2012
+1537,Sulu Range,Papua New Guinea,610,NA
+1538,Hargy,Papua New Guinea,1148,950
+1539,Bamus,Papua New Guinea,2248,1886
+1540,Ulawun,Papua New Guinea,2334,2023
+1541,Lolobau,Papua New Guinea,878,1912
+1542,Rabaul,Papua New Guinea,688,2014
+1543,Tavui,Papua New Guinea,200,-4946
+1544,Hydrographers Range,Papua New Guinea,1915,NA
+1545,Lamington,Papua New Guinea,1680,1956
+1546,Managlase Plateau,Papua New Guinea,1342,NA
+1547,Victory,Papua New Guinea,1832,1935
+1548,Goodenough,Papua New Guinea,220,NA
+1549,Sessagara Hills,Papua New Guinea,493,1944
+1550,Iamalele,Papua New Guinea,194,NA
+1551,Dawson Strait Group,Papua New Guinea,500,1350
+1552,Lihir,Papua New Guinea,700,NA
+1553,Ambitle,Papua New Guinea,450,-350
+1554,Billy Mitchell,Papua New Guinea,1544,1580
+1555,Balbi,Papua New Guinea,2715,NA
+1556,Takuan Group,Papua New Guinea,2210,NA
+1557,Bagana,Papua New Guinea,1855,2024
+1558,Loloru,Papua New Guinea,1887,-1050
+1559,Kana Keoki,Solomon Islands,-700,NA
+1560,Coleman Seamount,Solomon Islands,-717,NA
+1561,Simbo,Solomon Islands,335,1910
+1562,Unnamed,Solomon Islands,-240,NA
+1563,Gallego,Solomon Islands,1000,NA
+1564,Kavachi,Solomon Islands,-20,2014
+1565,Savo,Solomon Islands,485,1847
+1566,Tinakula,Solomon Islands,796,2024
+1567,Motlav,Vanuatu,411,NA
+1568,Suretamatai,Vanuatu,921,1966
+1569,Gaua,Vanuatu,729,2022
+1570,Ambae,Vanuatu,1496,2023
+1571,Ambrym,Vanuatu,1334,2024
+1572,Lopevi,Vanuatu,1413,2007
+1573,East Epi,Vanuatu,833,2023
+1574,Kuwae,Vanuatu,-2,1974
+1575,Nguna-Emau,Vanuatu,589,NA
+1576,Traitor's Head,Vanuatu,817,1881
+1577,Yasur,Vanuatu,361,2024
+1578,Gemini-Oscostar,Vanuatu,-33,1996
+1579,Matthew Island,France - claimed by Vanuatu,177,1956
+1580,Hunter Island,France - claimed by Vanuatu,297,1903
+1581,Newer Volcanics Province,Australia,1011,-2900
+1582,McBride Volcanic Province,Australia,1020,-5050
+1583,Narcondum,India,710,NA
+1584,Barren Island,India,354,2024
+1585,Seulawah Agam,Indonesia,1810,1839
+1586,Peuet Sague,Indonesia,2785,2000
+1587,"Telong, Bur ni",Indonesia,2617,1937
+1588,Singkut,Indonesia,2181,1881
+1589,Sinabung,Indonesia,2460,2021
+1590,Toba,Indonesia,2157,NA
+1591,Lubukraya,Indonesia,1862,NA
+1592,Sibualbuali,Indonesia,1819,NA
+1593,Malintang,Indonesia,1983,NA
+1594,Sorikmarapi,Indonesia,2145,1986
+1595,Talakmau,Indonesia,2919,NA
+1596,Marapi,Indonesia,2885,2024
+1597,Tandikat-Singgalang,Indonesia,2854,1924
+1598,Talang,Indonesia,2575,2007
+1599,Kerinci,Indonesia,3800,2024
+1600,Sumbing,Indonesia,2507,1921
+1601,Hululais,Indonesia,2122,NA
+1602,"Daun, Bukit",Indonesia,2467,NA
+1603,Kaba,Indonesia,1940,2000
+1604,Patah,Indonesia,2836,NA
+1605,Dempo,Indonesia,3142,2024
+1606,Ranau,Indonesia,1854,NA
+1607,Suoh,Indonesia,1000,2024
+1608,Rajabasa,Indonesia,1281,NA
+1609,Krakatau,Indonesia,285,2023
+1610,Pulosari,Indonesia,1324,NA
+1611,Karang,Indonesia,1768,NA
+1612,Perbakti-Gagak,Indonesia,1726,1939
+1613,Salak,Indonesia,2218,1938
+1614,Gede-Pangrango,Indonesia,3026,1957
+1615,Patuha,Indonesia,2422,NA
+1616,Tangkuban Parahu,Indonesia,2084,2019
+1617,Papandayan,Indonesia,2665,2002
+1618,Kendang,Indonesia,2594,NA
+1619,Tampomas,Indonesia,1690,NA
+1620,Guntur,Indonesia,2251,1847
+1621,Galunggung,Indonesia,2168,1984
+1622,Talagabodas,Indonesia,2201,NA
+1623,Ciremai,Indonesia,3039,1951
+1624,Slamet,Indonesia,3428,2014
+1625,Dieng Volcanic Complex,Indonesia,2565,2021
+1626,Sundoro,Indonesia,3147,1971
+1627,Sumbing,Indonesia,3371,1730
+1628,Telomoyo,Indonesia,1864,NA
+1629,Ungaran,Indonesia,2033,NA
+1630,Merbabu,Indonesia,3118,1797
+1631,Merapi,Indonesia,2910,2024
+1632,Lawu,Indonesia,3265,1885
+1633,Wilis,Indonesia,2563,NA
+1634,Kawi-Butak,Indonesia,2651,NA
+1635,Kelud,Indonesia,1730,2014
+1636,Penanggungan,Indonesia,1631,NA
+1637,Arjuno-Welirang,Indonesia,3343,1952
+1638,Semeru,Indonesia,3657,2024
+1639,Tengger Caldera,Indonesia,2329,2023
+1640,Lamongan,Indonesia,1641,1898
+1641,Iyang-Argapura,Indonesia,3088,NA
+1642,Raung,Indonesia,3260,2022
+1643,Baluran,Indonesia,1247,NA
+1644,Ijen,Indonesia,2769,1999
+1645,Buyan-Bratan,Indonesia,2244,NA
+1646,Batur,Indonesia,1711,2000
+1647,Agung,Indonesia,2997,2019
+1648,Rinjani,Indonesia,3726,2016
+1649,Tambora,Indonesia,2850,1967
+1650,Sangeang Api,Indonesia,1912,2022
+1651,"Sano, Wai",Indonesia,1319,NA
+1652,Ranakah,Indonesia,2288,1991
+1653,Inierie,Indonesia,2245,-8050
+1654,Inielika,Indonesia,1559,2001
+1655,Ebulobo,Indonesia,2096,1969
+1656,Iya,Indonesia,618,1969
+1657,Kelimutu,Indonesia,1639,1968
+1658,Paluweh,Indonesia,875,2013
+1659,Egon,Indonesia,1661,2008
+1660,Lewotobi,Indonesia,1703,2024
+1661,Leroboleng,Indonesia,1095,2003
+1662,Iliboleng,Indonesia,1659,1993
+1663,Lewotolok,Indonesia,1431,2024
+1664,Ililabalekan,Indonesia,1018,NA
+1665,Iliwerung,Indonesia,583,2021
+1666,"Tara, Batu",Indonesia,633,2015
+1667,Sirung,Indonesia,1347,2021
+1668,Wurlali,Indonesia,868,1892
+1669,Teon,Indonesia,728,1904
+1670,Nila,Indonesia,781,1968
+1671,Serua,Indonesia,608,1921
+1672,Manuk,Indonesia,257,NA
+1673,Banda Api,Indonesia,596,1988
+1674,Colo,Indonesia,404,1983
+1675,Ambang,Indonesia,1795,2005
+1676,Soputan,Indonesia,1785,2020
+1677,Lokon-Empung,Indonesia,1580,2015
+1678,Mahawu,Indonesia,1299,1977
+1679,Klabat,Indonesia,1968,NA
+1680,Tangkoko-Duasudara,Indonesia,1334,1880
+1681,Ruang,Indonesia,725,2024
+1682,Karangetang,Indonesia,1797,2023
+1683,Banua Wuhu,Indonesia,-5,1919
+1684,Awu,Indonesia,1318,2004
+1685,Tarakan,Indonesia,317,NA
+1686,Dukono,Indonesia,1273,2024
+1687,Tobaru,Indonesia,1035,NA
+1688,Ibu,Indonesia,1325,2024
+1689,Gamkonora,Indonesia,1635,2007
+1690,Jailolo,Indonesia,993,NA
+1691,Hiri,Indonesia,630,NA
+1692,Todoko-Ranu,Indonesia,979,NA
+1693,Kie Matubu,Indonesia,1713,1210
+1694,Mare,Indonesia,308,NA
+1695,Moti,Indonesia,927,NA
+1696,Gamalama,Indonesia,1714,2018
+1697,Tigalalu,Indonesia,422,NA
+1698,Amasing,Indonesia,1006,NA
+1699,Bibinoi,Indonesia,932,NA
+1700,Kie Besi,Indonesia,1357,1988
+1701,Melebingoy,Philippines,1824,1641
+1702,Balut,Philippines,840,NA
+1703,Matutum,Philippines,2262,1290
+1704,Leonard Range,Philippines,1080,80
+1705,Apo,Philippines,2938,NA
+1706,Makaturing,Philippines,1818,1882
+1707,Kalatungan,Philippines,2824,NA
+1708,Ragang,Philippines,2790,1916
+1709,Malindang,Philippines,2404,NA
+1710,Musuan,Philippines,610,NA
+1711,Camiguin,Philippines,1552,1953
+1712,Kanlaon,Philippines,2422,2024
+1713,Cabalían,Philippines,912,1820
+1714,Biliran,Philippines,1301,1939
+1715,Bulusan,Philippines,1535,2022
+1716,Pocdol Mountains,Philippines,1102,NA
+1717,Masaraga,Philippines,1294,NA
+1718,Mayon,Philippines,2462,2024
+1719,Iriga,Philippines,1138,NA
+1720,Isarog,Philippines,1966,-3500
+1721,Malindig,Philippines,1157,NA
+1722,Banahaw,Philippines,2158,NA
+1723,San Pablo Volcanic Field,Philippines,1090,1350
+1724,Taal,Philippines,311,2024
+1725,Pinatubo,Philippines,1486,2021
+1726,Patoc,Philippines,1865,NA
+1727,Ambalatungan Group,Philippines,2329,NA
+1728,Laguna Caldera,Philippines,743,NA
+1729,Cagua,Philippines,1133,1860
+1730,Camiguin de Babuyanes,Philippines,712,1857
+1731,Didicas,Philippines,228,1978
+1732,Babuyan Claro,Philippines,1064,1924
+1733,Iraya,Philippines,1009,1454
+1734,Hainan Volcanic Field,China,196,1933
+1735,Ly Son Group,Vietnam,157,NA
+1736,"Cendres, Ile des",Vietnam,-20,1923
+1737,Popa,Burma (Myanmar),1518,-6050
+1738,Tengchong,China,2865,-5750
+1739,Kueishantao,Taiwan,361,1853
+1740,Tatun Volcanic Group,Taiwan,1120,648
+1741,Submarine Volcano NNE of Iriomotejima,Japan,-200,1924
+1742,Yokoatejima,Japan,495,1835
+1743,Akusekijima,Japan,555,NA
+1744,Io-Torishima,Japan,212,1968
+1745,Suwanosejima,Japan,796,2024
+1746,Kuchinoshima,Japan,628,1190
+1747,Nakanoshima,Japan,979,1914
+1748,Kuchinoerabujima,Japan,657,2020
+1749,Kikai,Japan,704,2020
+1750,Ata,Japan,924,885
+1751,Yonemaru-Sumiyoshiike,Japan,40,-6200
+1752,Aira,Japan,1117,2024
+1753,Fukue,Japan,315,-400
+1754,Kirishimayama,Japan,1700,2018
+1755,Unzendake,Japan,1483,1996
+1756,Asosan,Japan,1592,2021
+1757,Kujusan,Japan,1791,1996
+1758,Yufu-Tsurumi,Japan,1584,867
+1759,Abu,Japan,641,-6850
+1760,Sanbesan,Japan,1126,650
+1761,Izu-Tobu,Japan,1406,1989
+1762,Hakoneyama,Japan,1438,2015
+1763,Yokodake,Japan,2480,1200
+1764,Fujisan,Japan,3776,1708
+1765,Ontakesan,Japan,3067,2014
+1766,Hakusan,Japan,2702,1659
+1767,Norikuradake,Japan,3026,-50
+1768,Washiba-Kumonotaira,Japan,2924,NA
+1769,Yakedake,Japan,2455,1995
+1770,Midagahara,Japan,2621,1839
+1771,Niigata-Yakeyama,Japan,2400,1998
+1772,Myokosan,Japan,2454,-750
+1773,Asamayama,Japan,2568,2019
+1774,Shiga,Japan,2041,NA
+1775,Harunasan,Japan,1449,550
+1776,Kusatsu-Shiranesan,Japan,2165,2018
+1777,Hiuchigatake,Japan,2356,1544
+1778,Akagisan,Japan,1828,NA
+1779,Nantaisan,Japan,2486,-9540
+1780,Omanago Group,Japan,2341,-3050
+1781,Takaharayama,Japan,1795,-4570
+1782,Nikko-Shiranesan,Japan,2578,1952
+1783,Numazawa,Japan,835,-3400
+1784,Nasudake,Japan,1915,1963
+1785,Bandaisan,Japan,1816,1888
+1786,Adatarayama,Japan,1728,1996
+1787,Azumayama,Japan,1949,1977
+1788,Hijiori,Japan,552,NA
+1789,Zaozan [Zaosan],Japan,1841,1940
+1790,Naruko,Japan,470,837
+1791,Kurikomayama,Japan,1627,1950
+1792,Chokaisan,Japan,2236,1974
+1793,Akita-Komagatake,Japan,1637,1971
+1794,Iwatesan,Japan,2038,1919
+1795,Hachimantai,Japan,1613,-5350
+1796,Megata,Japan,160,-2050
+1797,Akita-Yakeyama,Japan,1366,1997
+1798,Towada,Japan,1011,915
+1799,Iwakisan,Japan,1625,1863
+1800,Hakkodasan,Japan,1585,1550
+1801,Osorezan,Japan,878,1787
+1802,Toshima,Japan,508,-4550
+1803,Izu-Oshima,Japan,746,1990
+1804,Niijima,Japan,432,886
+1805,Kozushima,Japan,572,838
+1806,Mikurajima,Japan,851,-4100
+1807,Kurose Hole,Japan,-114,NA
+1808,Miyakejima,Japan,775,2010
+1809,Hachijojima,Japan,854,1606
+1810,Kita-Bayonnaise,Japan,-360,NA
+1811,Aogashima,Japan,423,1785
+1812,Myojinsho,Japan,11,1970
+1813,Sumisujima,Japan,136,1916
+1814,Sofugan,Japan,99,NA
+1815,Suiyo Seamount,Japan,-991,NA
+1816,Mokuyo Seamount,Japan,-933,NA
+1817,Doyo Seamount,Japan,-590,NA
+1818,Nishinoshima,Japan,100,2023
+1819,Kaikata Seamount,Japan,-165,NA
+1820,Izu-Torishima,Japan,394,2002
+1821,Kaitoku Seamount,Japan,-95,2023
+1822,Kita-Ioto,Japan,792,2022
+1823,Kita-Fukutokutai,Japan,-73,1954
+1824,Ioto,Japan,169,2024
+1825,Minami-Hiyoshi,Japan,-107,1975
+1826,Nikko,Japan,-392,NA
+1827,Fukujin,United States,-217,1974
+1828,Kasuga 1,United States,-598,1959
+1829,Kasuga 2,United States,-274,NA
+1830,NW Eifuku,United States,-1535,NA
+1831,Daikoku,United States,-323,NA
+1832,Fukutoku-Oka-no-Ba,Japan,-29,2021
+1833,Ahyi,United States,-75,2024
+1834,Supply Reef,United States,-8,NA
+1835,Maug Islands,United States,227,NA
+1836,Farallon de Pajaros,United States,337,1953
+1837,Asuncion,United States,857,1906
+1838,Agrigan,United States,965,1917
+1839,Pagan,United States,570,2021
+1840,Alamagan,United States,744,870
+1841,Zealandia Bank,United States,0,NA
+1842,Sarigan,United States,538,NA
+1843,Guguan,United States,287,1883
+1844,East Diamante,United States,-127,NA
+1845,Ruby,United States,174,2023
+1846,Anatahan,United States,790,2008
+1847,NW Rota-1,United States,-517,2010
+1848,Esmeralda Bank,United States,-74,NA
+1849,Forecast Seamount,United States,-1456,NA
+1850,Seamount X,United States,-1230,NA
+1851,Esan,Japan,618,1874
+1852,Oshima-Oshima,Japan,732,1790
+1853,Hokkaido-Komagatake,Japan,1131,2000
+1854,Niseko,Japan,1308,-4900
+1855,Yoteizan,Japan,1888,-1050
+1856,Kuttara,Japan,549,1820
+1857,Toya,Japan,733,2001
+1858,Rishirizan,Japan,1721,-5830
+1859,Shikotsu,Japan,1320,1981
+1860,Tokachidake,Japan,2077,2004
+1861,Maruyama,Japan,2013,1898
+1862,Taisetsuzan,Japan,2291,1739
+1863,Akan,Japan,1499,2008
+1864,Mashu,Japan,857,1080
+1865,Rausudake,Japan,1660,1800
+1866,Kussharo,Japan,574,1320
+1867,Shiretoko-Iozan,Japan,1562,1936
+1868,Tomariyama [Golovnin],Japan - administered by Russia,535,1848
+1869,Ruruidake [Smirnov],Japan - administered by Russia,1486,NA
+1870,Raususan [Mendeleev],Japan - administered by Russia,882,1880
+1871,Chachadake [Tiatia],Japan - administered by Russia,1822,1981
+1872,Moekeshiwan [Lvinaya Past],Japan - administered by Russia,528,-7480
+1873,Berutarubesan [Berutarube],Japan - administered by Russia,1221,NA
+1874,Etorofu-Atosanupuri [Atosanupuri],Japan - administered by Russia,1206,1932
+1875,Hitokappu Volcano Group [Bogatyr Ridge],Japan - administered by Russia,1610,NA
+1876,Unnamed,Japan - administered by Russia,-195,NA
+1877,Etorofu-Yakeyama [Grozny Group],Japan - administered by Russia,1158,2013
+1878,Sashiusudake [Baransky],Japan - administered by Russia,1125,1951
+1879,Chirippusan [Chirip],Japan - administered by Russia,1587,1860
+1880,Moyorodake [Medvezhia],Japan - administered by Russia,1124,1999
+1881,Rakkibetsudake [Demon],Japan - administered by Russia,1205,NA
+1882,Ivao Group,Russia,1426,NA
+1883,Rudakov,Russia,532,NA
+1884,Tri Sestry,Russia,998,NA
+1885,Kolokol Group,Russia,1328,1973
+1886,Chirpoi,Russia,742,2016
+1887,Unnamed,Russia,-502,1972
+1888,Milna,Russia,1504,1914
+1889,Zavaritzki Caldera,Russia,612,1957
+1890,Uratman,Russia,678,NA
+1891,Prevo Peak,Russia,1360,1825
+1892,Ketoi,Russia,1172,1960
+1893,Srednii,Russia,36,NA
+1894,Ushishur,Russia,357,1884
+1895,Rasshua,Russia,956,1957
+1896,Sarychev Peak,Russia,1496,2021
+1897,Raikoke,Russia,551,2019
+1898,Chirinkotan,Russia,724,2022
+1899,Ekarma,Russia,1170,2010
+1900,Sinarka,Russia,911,1878
+1901,Kharimkotan,Russia,1145,1933
+1902,Tao-Rusyr Caldera,Russia,1272,1952
+1903,Nemo Peak,Russia,1018,1938
+1904,Shirinki,Russia,761,NA
+1905,Fuss Peak,Russia,1742,1854
+1906,Karpinsky Group,Russia,1326,1952
+1907,Chikurachki,Russia,1781,2023
+1908,Vernadskii Ridge,Russia,1183,NA
+1909,Ebeko,Russia,1103,2024
+1910,Alaid,Russia,2285,2022
+1911,Kambalny,Russia,2116,2017
+1912,Yavinsky,Russia,646,-4050
+1913,Diky Greben,Russia,1040,350
+1914,Kurile Lake,Russia,81,-6440
+1915,Koshelev,Russia,1822,1690
+1916,Iliinsky,Russia,1555,1901
+1917,Zheltovsky,Russia,1926,1923
+1918,Olkoviy Volcanic Group,Russia,681,NA
+1919,Khodutka,Russia,2039,-300
+1920,Asacha,Russia,1910,NA
+1921,Visokiy,Russia,1227,NA
+1922,Ksudach,Russia,1079,1907
+1923,Mutnovsky,Russia,2288,2000
+1924,Gorely,Russia,1799,2010
+1925,Tolmachev Dol,Russia,1021,300
+1926,Vilyuchinsky,Russia,2173,-8050
+1927,Barkhatnaya Sopka,Russia,874,-3550
+1928,Opala,Russia,2439,1776
+1929,Koryaksky,Russia,3430,2009
+1930,Avachinsky,Russia,2717,2001
+1931,Dzenzursky,Russia,2285,NA
+1932,Veer,Russia,520,390
+1933,Kostakan,Russia,1150,1350
+1934,Bakening,Russia,2278,-550
+1935,Zavaritsky,Russia,1567,-800
+1936,Akademia Nauk,Russia,1180,1996
+1937,Zhupanovsky,Russia,2899,2016
+1938,Karymsky,Russia,1513,2022
+1939,Maly Semyachik,Russia,1527,1952
+1940,Bolshoi Semiachik,Russia,1720,-4450
+1941,Taunshits,Russia,2301,-550
+1942,Uzon,Russia,1617,200
+1943,Kikhpinych,Russia,1515,1550
+1944,Krasheninnikov,Russia,1816,1550
+1945,Kronotsky,Russia,3482,1923
+1946,Gamchen,Russia,2539,-550
+1947,Vysoky,Russia,2129,-550
+1948,Komarov,Russia,2065,950
+1949,Kizimen,Russia,2334,2013
+1950,Udina,Russia,2886,NA
+1951,Zimina,Russia,3057,NA
+1952,Tolbachik,Russia,3611,2013
+1953,Kamen,Russia,4585,NA
+1954,Bezymianny,Russia,2882,2024
+1955,Ushkovsky,Russia,3943,1890
+1956,Klyuchevskoy,Russia,4754,2023
+1957,Piip,Russia,-300,-5050
+1958,Khangar,Russia,1967,1500
+1959,Cherpuk Group,Russia,1868,-4550
+1960,Sheveluch,Russia,3283,2024
+1961,Ichinsky,Russia,3596,1740
+1962,Bolshoi-Kekuknaysky,Russia,1401,-5310
+1963,Alney-Chashakondzha,Russia,2570,1600
+1964,Shisheika,Russia,355,-2240
+1965,Terpuk,Russia,765,-800
+1966,Sedanka Lava Field,Russia,1399,-7050
+1967,Gorny Institute,Russia,2125,1250
+1968,Kinenin,Russia,583,850
+1969,Bliznetsy,Russia,265,-1060
+1970,Titila,Russia,1523,-550
+1971,Elovsky,Russia,1381,-7550
+1972,Nylgimelkin,Russia,1764,-3550
+1973,Spokoiny,Russia,2171,-3450
+1974,Ostry,Russia,2552,-2050
+1975,Severny,Russia,1936,-1550
+1976,Udokan Plateau,Russia,2180,-220
+1977,Vitim Volcanic Field,Russia,1250,NA
+1978,Tunkin Depression,Russia,1200,NA
+1979,Jom-Bolok,Russia,2047,-5180
+1980,Azas Plateau,Russia,2765,NA
+1981,Taryatu-Chulutu,Mongolia,2326,-2980
+1982,Khanuy Gol,Mongolia,1886,NA
+1983,Dariganga Volcanic Field,Mongolia,1778,NA
+1984,Ashikule Volcanic Field,China,5090,1951
+1985,Honggeertu,China,1605,NA
+1986,Arxan-Chaihe,China,1677,0
+1987,Keluo Group,China,670,NA
+1988,Wudalianchi,China,597,1776
+1989,Jingpohu,China,1000,-520
+1990,Longgang Group,China,1000,350
+1991,Changbaishan,China-North Korea,2744,1903
+1992,Ch'uga-ryong,North Korea-South Korea,452,NA
+1993,Ulleungdo,South Korea,984,-2990
+1994,Halla,South Korea,1919,1007
+1995,Buldir,United States,656,NA
+1996,Kiska,United States,1220,1990
+1997,Segula,United States,1160,NA
+1998,Davidof,United States,328,NA
+1999,Little Sitkin,United States,1174,1830
+2000,Semisopochnoi,United States,1221,2023
+2001,Gareloi,United States,1573,1989
+2002,Tanaga,United States,1806,1914
+2003,Takawangha,United States,1449,1550
+2004,Bobrof,United States,738,NA
+2005,Kanaga,United States,1307,2023
+2006,Moffett,United States,1196,-1600
+2007,Great Sitkin,United States,1740,2024
+2008,Kasatochi,United States,314,2008
+2009,Koniuji,United States,273,-1150
+2010,Atka Volcanic Complex,United States,1518,2024
+2011,Seguam,United States,1054,1993
+2012,Amukta,United States,1066,1997
+2013,Chagulak,United States,1142,NA
+2014,Yunaska,United States,550,1937
+2015,Herbert,United States,1280,NA
+2016,Carlisle,United States,1620,1828
+2017,Cleveland,United States,1730,2020
+2018,Tana,United States,1170,NA
+2019,Uliaga,United States,888,NA
+2020,Kagamil,United States,893,1929
+2021,Vsevidof,United States,2149,1878
+2022,Recheschnoi,United States,1984,NA
+2023,Okmok,United States,1073,2008
+2024,Bogoslof,United States,150,2017
+2025,Makushin,United States,1800,1995
+2026,Akutan,United States,1303,1992
+2027,Westdahl,United States,1563,1992
+2028,Fisher,United States,1112,1830
+2029,Shishaldin,United States,2857,2023
+2030,Roundtop,United States,1871,-7600
+2031,Amak,United States,547,1796
+2032,Frosty,United States,1728,NA
+2033,Dutton,United States,1465,NA
+2034,Emmons Lake Volcanic Center,United States,1534,NA
+2035,Pavlof,United States,2493,2022
+2036,Pavlof Sister,United States,2142,NA
+2037,Dana,United States,1354,-1890
+2038,Kupreanof,United States,1895,NA
+2039,Veniaminof,United States,2507,2021
+2040,Black Peak,United States,1032,-1900
+2041,Aniakchak,United States,1341,1931
+2042,Yantarni,United States,1345,-800
+2043,Chiginagak,United States,2221,1998
+2044,Kialagvik,United States,1677,NA
+2045,Ugashik-Peulik,United States,1474,1814
+2046,Ukinrek Maars,United States,91,1977
+2047,Unnamed,United States,402,NA
+2048,Martin,United States,1863,1953
+2049,Mageik,United States,2165,-500
+2050,Trident,United States,1864,1974
+2051,Katmai,United States,2047,1912
+2052,Novarupta,United States,841,1912
+2053,Griggs,United States,2317,-1790
+2054,Snowy Mountain,United States,2162,1710
+2055,Denison,United States,2287,NA
+2056,Steller,United States,2272,NA
+2057,Kukak,United States,2043,NA
+2058,Kaguyak,United States,901,-3850
+2059,Fourpeaked,United States,2105,2006
+2060,Douglas,United States,2140,NA
+2061,Augustine,United States,1218,2006
+2062,Iliamna,United States,3053,1876
+2063,Redoubt,United States,3108,2009
+2064,Spurr,United States,3374,1992
+2065,Hayes,United States,3034,1200
+2066,St. Paul Island,United States,203,-1280
+2067,Ingakslugwat Hills,United States,190,NA
+2068,St. Michael,United States,715,NA
+2069,Imuruk Lake,United States,610,300
+2070,Buzzard Creek,United States,830,-1050
+2071,Wrangell,United States,4278,1912
+2072,Churchill,United States,5005,847
+2073,Edgecumbe,United States,970,-2080
+2074,Duncan Canal,United States,15,NA
+2075,Tlevak Strait-Suemez Island,United States,50,NA
+2076,Behm Canal-Rudyerd Bay,United States,500,NA
+2077,Fort Selkirk,Canada,1239,NA
+2078,Alligator Lake,Canada,2217,NA
+2079,Atlin Volcanic Field,Canada,1880,NA
+2080,Tuya Volcanic Field,Canada,2123,NA
+2081,Heart Peaks,Canada,2012,NA
+2082,Level Mountain,Canada,2164,NA
+2083,Edziza,Canada,2786,950
+2084,Spectrum Range,Canada,2430,NA
+2085,Hoodoo Mountain,Canada,1850,-7050
+2086,Iskut-Unuk River Cones,Canada,1880,1800
+2087,Tseax River Cone,Canada,612,1690
+2088,Crow Lagoon,Canada,335,NA
+2089,Milbanke Sound Group,Canada,233,NA
+2090,Nazko,Canada,1238,-5220
+2091,Wells Gray-Clearwater,Canada,2576,1550
+2092,Silverthrone,Canada,2860,NA
+2093,Bridge River Cones,Canada,2500,NA
+2094,Meager,Canada,2680,-410
+2095,Garibaldi Lake,Canada,2316,NA
+2096,Garibaldi,Canada,2678,-8060
+2097,Cayley Volcanic Field,Canada,2375,NA
+2098,Baker,United States,3285,1880
+2099,Glacier Peak,United States,3213,1700
+2100,Rainier,United States,4392,1450
+2101,Adams,United States,3742,950
+2102,St. Helens,United States,2549,2008
+2103,West Crater,United States,1329,-5750
+2104,Indian Heaven,United States,1806,-6250
+2105,Hood,United States,3426,1866
+2106,Jefferson,United States,3199,950
+2107,Blue Lake Crater,United States,1136,680
+2108,Sand Mountain Field,United States,1664,-950
+2109,Belknap,United States,2095,480
+2110,Three Sisters,United States,3159,439
+2111,Bachelor,United States,2763,-5800
+2112,Davis Lake,United States,2163,-2790
+2113,Newberry,United States,2434,690
+2114,Devils Garden,United States,1698,NA
+2115,Cinnamon Butte,United States,1958,NA
+2116,Crater Lake,United States,2487,-2850
+2117,Diamond Craters,United States,1435,-5610
+2118,Jordan Craters,United States,1473,-1250
+2119,Shasta,United States,4317,1250
+2120,Medicine Lake,United States,2412,1060
+2121,Lassen Volcanic Center,United States,3187,1917
+2122,Clear Lake Volcanic Field,United States,1439,NA
+2123,Mono Lake Volcanic Field,United States,2121,1790
+2124,Mono-Inyo Craters,United States,2796,1380
+2125,Mammoth Mountain,United States,3369,1260
+2126,Ubehebe Craters,United States,752,-150
+2127,Salton Buttes,United States,-40,210
+2128,Black Butte Crater Lava Field,United States,1478,-8400
+2129,Craters of the Moon,United States,2005,-130
+2130,Wapi Lava Field,United States,1597,-300
+2131,Hell's Half Acre,United States,1631,-3250
+2132,Soda Lakes,United States,1251,NA
+2133,Markagunt Plateau,United States,2840,1050
+2134,Black Rock Desert,United States,1800,1290
+2135,Dotsero,United States,2230,-2200
+2136,Uinkaret Field,United States,1555,1100
+2137,San Francisco Volcanic Field,United States,3850,1075
+2138,Carrizozo,United States,1731,-3250
+2139,Zuni-Bandera,United States,2550,-1170
+2140,Red Hill,United States,2300,-9450
+2141,Endeavour Segment,Canada,-2050,-3490
+2142,Cobb Segment,Canada,-2100,-1180
+2143,CoAxial Segment,Undersea Features,-2400,1993
+2144,Axial Seamount,Undersea Features,-1410,2015
+2145,Cleft Segment,Undersea Features,-2140,1986
+2146,North Gorda Ridge Segment,United States,-3000,1996
+2147,Escanaba Segment,United States,-1700,-2260
+2148,Kama'ehuakanaloa,United States,-975,1996
+2149,Kilauea,United States,1222,2024
+2150,Mauna Loa,United States,4170,2022
+2151,Mauna Kea,United States,4205,-2460
+2152,Hualalai,United States,2523,1801
+2153,Haleakala,United States,3055,1750
+2154,Teahitia,France,-1743,1985
+2155,Rocard,France,-2515,1972
+2156,Moua Pihaa,France,-312,1970
+2157,Mehetia,France,389,NA
+2158,Adams Seamount,United Kingdom,-39,-50
+2159,Macdonald,France,-39,1989
+2160,Northern EPR at 17°N,Mexico,-2700,-50
+2161,Northern EPR at 16°N,Mexico,-2300,-50
+2162,Northern EPR at 10.7°N,Undersea Features,-2900,2003
+2163,Northern EPR at 9.8°N,Undersea Features,-2500,2006
+2164,Galapagos Rift,Ecuador,-2430,1996
+2165,Southern EPR at 8°S,Undersea Features,-2800,1969
+2166,Southern EPR at 17.5°S (Segment K),Undersea Features,-2566,1990
+2167,Southern EPR at 18.2°S (Segment J),Undersea Features,-2650,1890
+2168,Southern EPR at 18.5°S (Segment I),Undersea Features,-2600,1915
+2169,Hollister Ridge,Undersea Features,-1000,NA
+2170,Udintsev Transform,Undersea Features,-5700,NA
+2171,"Prieto, Cerro",Mexico,223,NA
+2172,Pinacate,Mexico,1183,NA
+2173,"San Luis, Isla",Mexico,180,NA
+2174,Jaraguay Volcanic Field,Mexico,960,NA
+2175,Coronado,Mexico,440,NA
+2176,San Borja Volcanic Field,Mexico,1360,NA
+2177,"Tortuga, Isla",Mexico,224,NA
+2178,Comondu-La Purisima,Mexico,780,NA
+2179,Socorro,Mexico,1050,1994
+2180,Durango Volcanic Field,Mexico,2075,NA
+2181,Sanganguey,Mexico,2340,NA
+2182,Barcena,Mexico,332,1953
+2183,Mascota Volcanic Field,Mexico,2525,NA
+2184,Ceboruco,Mexico,2280,1875
+2185,Colima,Mexico,3850,2019
+2186,Zitacuaro-Valle de Bravo,Mexico,3500,-3050
+2187,Jocotitlan,Mexico,3900,1270
+2188,Michoacan-Guanajuato,Mexico,3860,1952
+2189,"Toluca, Nevado de",Mexico,4680,-1350
+2190,Iztaccihuatl,Mexico,5230,NA
+2191,Chichinautzin,Mexico,3938,399
+2192,"Malinche, La",Mexico,4461,-1170
+2193,Serdan-Oriental,Mexico,3485,NA
+2194,"Humeros, Los",Mexico,3150,-4470
+2195,"Atlixcos, Los",Mexico,775,NA
+2196,Naolinco Volcanic Field,Mexico,2000,-1200
+2197,Cofre de Perote,Mexico,4282,1150
+2198,"Gloria, La",Mexico,3500,NA
+2199,"Cumbres,  Las",Mexico,3940,-3920
+2200,Popocatepetl,Mexico,5393,2024
+2201,"Orizaba, Pico de",Mexico,5564,1846
+2202,San Martin,Mexico,1650,1796
+2203,"Chichon, El",Mexico,1150,1982
+2204,Tacana,Mexico-Guatemala,4064,1986
+2205,Tajumulco,Guatemala,4203,NA
+2206,Santa Maria,Guatemala,3745,2024
+2207,Almolonga,Guatemala,3173,1818
+2208,Atitlan,Guatemala,3535,1853
+2209,Toliman,Guatemala,3158,NA
+2210,Acatenango,Guatemala,3976,1972
+2211,Fuego,Guatemala,3763,2024
+2212,Agua,Guatemala,3760,NA
+2213,Cuilapa-Barbarena,Guatemala,1454,NA
+2214,Pacaya,Guatemala,2569,2021
+2215,Jumaytepeque,Guatemala,1802,NA
+2216,Tecuamburro,Guatemala,1845,-960
+2217,Moyuta,Guatemala,1662,NA
+2218,Flores,Guatemala,1600,NA
+2219,Tahual,Guatemala,1716,NA
+2220,"Santiago, Cerro",Guatemala,1192,NA
+2221,Suchitan,Guatemala,2042,NA
+2222,Chingo,Guatemala-El Salvador,1775,NA
+2223,Ixtepeque,Guatemala,1292,NA
+2224,San Diego,El Salvador-Guatemala,781,NA
+2225,"Singuil, Cerro",El Salvador,926,NA
+2226,Apaneca Range,El Salvador,2028,NA
+2227,Santa Ana,El Salvador,2381,2005
+2228,Izalco,El Salvador,1950,1966
+2229,Coatepeque Caldera,El Salvador,746,NA
+2230,"Cinotepeque, Cerro",El Salvador,665,NA
+2231,Guazapa,El Salvador,1438,NA
+2232,San Salvador,El Salvador,1893,1917
+2233,Ilopango,El Salvador,450,1880
+2234,Apastepeque Field,El Salvador,700,NA
+2235,Taburete,El Salvador,1172,NA
+2236,San Vicente,El Salvador,2182,NA
+2237,Usulutan,El Salvador,1449,NA
+2238,"Tigre, El",El Salvador,1640,NA
+2239,Tecapa,El Salvador,1593,NA
+2240,Chinameca,El Salvador,1300,NA
+2241,"Aramuaca, Laguna",El Salvador,181,NA
+2242,San Miguel,El Salvador,2130,2023
+2243,"Tigre, Isla del",Honduras,774,NA
+2244,"Zacate Grande, Isla",Honduras,640,NA
+2245,"Yojoa, Lago",Honduras,1060,-7638
+2246,Cosiguina,Nicaragua,872,1859
+2247,San Cristobal,Nicaragua,1745,2023
+2248,Telica,Nicaragua,1036,2022
+2249,"Negro, Cerro",Nicaragua,728,1999
+2250,Las Pilas-El Hoyo Complex,Nicaragua,1088,1954
+2251,Apoyeque,Nicaragua,518,-50
+2252,Nejapa-Miraflores,Nicaragua,360,1060
+2253,Momotombo,Nicaragua,1270,2016
+2254,Granada,Nicaragua,250,NA
+2255,Masaya,Nicaragua,594,2024
+2256,Zapatera,Nicaragua,629,NA
+2257,Mombacho,Nicaragua,1344,NA
+2258,Concepcion,Nicaragua,1700,2024
+2259,Orosi,Costa Rica,1659,NA
+2260,Rincon de la Vieja,Costa Rica,1916,2024
+2261,Tenorio,Costa Rica,1916,NA
+2262,Arenal,Costa Rica,1670,2010
+2263,Platanar,Costa Rica,2267,NA
+2264,Miravalles,Costa Rica,2028,1946
+2265,Poas,Costa Rica,2697,2024
+2266,Barva,Costa Rica,2906,-6050
+2267,Irazu,Costa Rica,3436,1977
+2268,Turrialba,Costa Rica,3340,2022
+2269,Baru,Panama,3474,1550
+2270,Romeral,Colombia,3769,-5390
+2271,"Bravo, Cerro",Colombia,3985,1720
+2272,Santa Isabel,Colombia,4944,-850
+2273,"Ruiz, Nevado del",Colombia,5279,2024
+2274,"Tolima, Nevado del",Colombia,5215,1943
+2275,Machin,Colombia,2749,1180
+2276,"Huila, Nevado del",Colombia,5364,2012
+2277,Sotara,Colombia,4400,NA
+2278,Purace,Colombia,4650,2023
+2279,Dona Juana,Colombia,4137,1906
+2280,Galeras,Colombia,4276,2014
+2281,Azufral,Colombia,4070,-930
+2282,Cumbal,Colombia,4764,1926
+2283,Chiles-Cerro Negro,Colombia-Ecuador,4698,1936
+2284,Soche,Ecuador,3955,-6650
+2285,Chachimbiro,Ecuador,4106,-3740
+2286,Cuicocha,Ecuador,3246,650
+2287,Imbabura,Ecuador,4609,-5550
+2288,Mojanda,Ecuador,4263,NA
+2289,Cayambe,Ecuador,5790,1786
+2290,Pululahua,Ecuador,3360,290
+2291,Reventador,Ecuador,3562,2024
+2292,Atacazo,Ecuador,4463,-320
+2293,Chacana,Ecuador,4643,1773
+2294,Guagua Pichincha,Ecuador,4784,2002
+2295,Aliso,Ecuador,4267,-2450
+2296,Antisana,Ecuador,5753,1802
+2297,Iliniza,Ecuador,5162,NA
+2298,Sumaco,Ecuador,3990,1895
+2299,Cotopaxi,Ecuador,5911,2023
+2300,Quilotoa,Ecuador,3914,1280
+2301,Chimborazo,Ecuador,6261,550
+2302,Licto,Ecuador,3322,NA
+2303,Tungurahua,Ecuador,5023,2016
+2304,Sangay,Ecuador,5286,2024
+2305,Ecuador,Ecuador,790,1150
+2306,Fernandina,Ecuador,1476,2024
+2307,Wolf,Ecuador,1710,2022
+2308,Darwin,Ecuador,1330,1813
+2309,Alcedo,Ecuador,1130,1993
+2310,"Negra, Sierra",Ecuador,1124,2018
+2311,"Azul, Cerro",Ecuador,1640,2008
+2312,Pinta,Ecuador,780,1928
+2313,Genovesa,Ecuador,64,NA
+2314,Marchena,Ecuador,343,1991
+2315,Santa Cruz,Ecuador,864,NA
+2316,Santiago,Ecuador,920,1906
+2317,San Cristobal,Ecuador,759,NA
+2318,Kimsachata-Oroscocha,Peru,3848,-4450
+2319,"Auquihuato, Cerro",Peru,4980,NA
+2320,Sara Sara,Peru,5522,NA
+2321,Coropuna,Peru,6377,NA
+2322,Andahua-Orcopampa,Peru,4713,1490
+2323,Huambo,Peru,4554,-700
+2324,Sabancaya,Peru,5960,2024
+2325,"Chachani, Nevado",Peru,6057,NA
+2326,"Misti, El",Peru,5822,1985
+2327,Ubinas,Peru,5608,2024
+2328,Ticsani,Peru,5382,1800
+2329,Huaynaputina,Peru,4679,1600
+2330,Tutupaca,Peru,5801,1802
+2331,Yucamane,Peru,5495,-1320
+2332,"Casiri, Nevados",Peru,5626,NA
+2333,Taapaca,Chile,5860,-320
+2334,Parinacota,Chile-Bolivia,6336,290
+2335,Tacora,Chile-Peru,5960,NA
+2336,Guallatiri,Chile,6071,1960
+2337,Tata Sabaya,Bolivia,5430,NA
+2338,Isluga,Chile,5550,1913
+2339,Irruputuncu,Chile-Bolivia,5163,1995
+2340,Olca-Paruma,Chile-Bolivia,5705,NA
+2341,Sairecabur,Chile-Bolivia,5961,NA
+2342,Licancabur,Chile-Bolivia,5916,NA
+2343,Guayaques,Chile-Bolivia,5598,NA
+2344,Purico Complex,Chile,5703,NA
+2345,Colachi,Chile,5631,NA
+2346,Acamarachi,Chile,6023,NA
+2347,Chiliques,Chile,5778,NA
+2348,Putana,Chile,5884,1810
+2349,Cordon de Puntas Negras,Chile,5852,NA
+2350,Miniques,Chile,5910,NA
+2351,"Tujle, Cerro",Chile,3550,NA
+2352,Caichinque,Chile,4458,NA
+2353,Tilocalar,Chile,3109,NA
+2354,Pular,Chile,6233,NA
+2355,"Negrillar, La",Chile,4220,NA
+2356,Socompa,Chile-Argentina,6031,-5250
+2357,Lascar,Chile,5592,2023
+2358,Corrida de Cori Volcanic Field,Chile-Argentina,5451,NA
+2359,Llullaillaco,Chile-Argentina,6739,1877
+2360,Cordon del Azufre,Chile-Argentina,5481,NA
+2361,"Bayo Gorbea, Cerro",Chile-Argentina,5413,NA
+2362,"Nevada, Sierra",Chile-Argentina,6173,NA
+2363,Falso Azufre,Chile-Argentina,5906,NA
+2364,"Incahuasi, Nevado de",Chile-Argentina,6638,NA
+2365,Lastarria,Chile-Argentina,5706,NA
+2366,"Solo, El",Chile-Argentina,6205,NA
+2367,"Ojos del Salado, Nevados",Chile-Argentina,6879,750
+2368,Tuzgle,Argentina,5486,NA
+2369,Aracar,Argentina,6095,NA
+2370,Unnamed,Argentina,4652,NA
+2371,Antofagasta Volcanic Field,Argentina,3495,NA
+2372,"Condor, El",Argentina,6373,NA
+2373,Peinado,Argentina,5741,NA
+2374,"Blanco, Cerro",Argentina,4670,-2300
+2375,Tipas,Argentina,6658,NA
+2376,Rapa Nui,Chile,501,NA
+2377,Tupungatito,Chile-Argentina,5660,1987
+2378,Maipo,Chile-Argentina,5323,1912
+2379,Palomo,Chile,4860,NA
+2380,"Atuel, Caldera del",Argentina,5189,NA
+2381,Risco Plateado,Argentina,4999,NA
+2382,San Jose,Chile-Argentina,6070,1960
+2383,Tinguiririca,Chile,4280,1917
+2384,Infiernillo,Argentina,3007,-6890
+2385,Calabozos,Chile,3508,NA
+2386,Planchon-Peteroa,Chile,3977,2019
+2387,Descabezado Grande,Chile,3953,1933
+2388,"Maule, Laguna del",Chile,2162,-50
+2389,San Pedro-Pellado,Chile,3621,NA
+2390,"Longavi, Nevado de",Chile,3175,-4890
+2391,"Blancas, Lomas",Chile,2268,NA
+2392,"Resago, Volcan",Chile,1890,NA
+2393,Payun Matru,Argentina,3715,-5050
+2394,"Azul, Cerro",Chile,3788,1967
+2395,Tromen Volcanic Plateau,Argentina,4114,1822
+2396,"Chillan, Nevados de",Chile,3180,2022
+2397,Antuco,Chile,2979,1869
+2398,Callaqui,Chile,3164,1980
+2399,Tolhuaca,Chile,2739,-4000
+2400,Copahue,Chile-Argentina,2953,2021
+2401,"Blanca, Laguna",Argentina,1700,NA
+2402,Lonquimay,Chile,2832,1990
+2403,Sollipulli,Chile,2282,1240
+2404,Caburgua-Huelemolle,Chile,1652,-5050
+2405,Llaima,Chile,3125,2009
+2406,Quetrupillan,Chile,2360,255
+2407,Lanin,Chile-Argentina,3776,560
+2408,Huanquihue Group,Argentina,2189,1750
+2409,Villarrica,Chile,2847,2024
+2410,Mocho-Choshuenco,Chile,2422,1937
+2411,Carran-Los Venados,Chile,1114,1979
+2412,Antillanca Volcanic Complex,Chile,1979,-230
+2413,Puyehue-Cordon Caulle,Chile,2236,2012
+2414,Puntiagudo-Cordon Cenizos,Chile,2493,1850
+2415,Tronador,Chile-Argentina,3478,NA
+2416,Cayutue-La Vigueria,Chile,506,-190
+2417,Osorno,Chile,2659,1869
+2418,Yate,Chile,2187,1090
+2419,Hornopiren,Chile,1572,340
+2420,Apagado,Chile,1210,-590
+2421,Crater Basalt Volcanic Field,Argentina,1344,NA
+2422,Calbuco,Chile,1974,2015
+2423,Huequi,Chile,1318,1920
+2424,Chaiten,Chile,1122,2011
+2425,Michinmahuida,Chile,2452,1835
+2426,Yanteles,Chile,1790,-6650
+2427,Melimoyu,Chile,2400,200
+2428,Puyuhuapi,Chile,524,NA
+2429,Mentolat,Chile,1660,1710
+2430,Cay,Chile,2090,NA
+2431,Maca,Chile,2960,1560
+2432,"Hudson, Cerro",Chile,1905,2011
+2433,Corcovado,Chile,1826,-4920
+2434,Aguilera,Chile,2546,-1253
+2435,Reclus,Chile,1403,1908
+2436,Lautaro,Chile,3542,1979
+2437,"Burney, Monte",Chile,1758,1910
+2438,Pali-Aike Volcanic Field,Chile-Argentina,282,-5550
+2439,Fueguino,Chile,157,1820
+2440,Saba,Netherlands,887,1640
+2441,"Quill, The",Netherlands,601,250
+2442,Liamuiga,Saint Kitts and Nevis,1156,160
+2443,Nevis Peak,Saint Kitts and Nevis,985,NA
+2444,Soufriere Hills,United Kingdom,915,2013
+2445,Soufriere Guadeloupe,France,1467,1977
+2446,"Diables, Morne aux",Dominica,861,NA
+2447,"Diablotins, Morne",Dominica,1430,NA
+2448,"Watt, Morne",Dominica,1224,1997
+2449,"Trois Pitons, Morne",Dominica,1387,920
+2450,"Plat Pays, Morne",Dominica,940,1270
+2451,Pelee,France,1372,1932
+2452,Qualibou,Saint Lucia,777,1766
+2453,Soufriere St. Vincent,Saint Vincent and the Grenadines,1220,2021
+2454,Kick 'em Jenny,Grenada,-185,2017
+2455,St. Catherine,Grenada,840,NA
+2456,Snaefellsjokull,Iceland,1446,200
+2457,Helgrindur,Iceland,986,NA
+2458,Ljosufjoll,Iceland,1063,960
+2459,Reykjanes,Iceland,140,2024
+2460,Krysuvik-Trolladyngja,Iceland,360,1340
+2461,Brennisteinsfjoll,Iceland,610,1341
+2462,Hromundartindur,Iceland,550,NA
+2463,Hengill,Iceland,803,150
+2464,Grimsnes,Iceland,200,-3500
+2465,Prestahnukur,Iceland,1385,-3350
+2466,Oddnyjarhnjukur-Langjokull,Iceland,1100,950
+2467,Hofsjokull,Iceland,1765,NA
+2468,Vestmannaeyjar,Iceland,283,1973
+2469,Eyjafjallajokull,Iceland,1651,2010
+2470,Katla,Iceland,1490,1918
+2471,Tindfjallajokull,Iceland,1464,NA
+2472,Torfajokull,Iceland,1280,1477
+2473,Hekla,Iceland,1490,2000
+2474,Grimsvotn,Iceland,1719,2011
+2475,Bardarbunga,Iceland,2000,2015
+2476,Tungnafellsjokull,Iceland,1523,NA
+2477,Kverkfjoll,Iceland,1930,1968
+2478,Askja,Iceland,1080,1961
+2479,Fremrinamar,Iceland,970,-1200
+2480,Krafla,Iceland,800,1984
+2481,Theistareykir,Iceland,563,-900
+2482,Tjornes Fracture Zone,Iceland,-75,1868
+2483,Oraefajokull,Iceland,2010,1728
+2484,Esjufjoll,Iceland,1620,NA
+2485,Snaefell,Iceland,1833,NA
+2486,Kolbeinsey Ridge,Iceland,5,1755
+2487,Jan Mayen,Norway,2197,1985
+2488,East Gakkel Ridge at 85°E,Undersea Features,-3800,1999
+2489,Pico Fracture Zone,Undersea Features,-4200,1865
+2490,Flores,Portugal,914,-950
+2491,Fayal,Portugal,1041,1958
+2492,Pico,Portugal,2351,1720
+2493,Sao Jorge,Portugal,1053,1902
+2494,Graciosa,Portugal,402,-1950
+2495,Terceira,Portugal,1023,2000
+2496,Don Joao de Castro Bank,Portugal,-13,1720
+2497,Picos Fissural Volcanic System,Portugal,350,1652
+2498,Sete Cidades,Portugal,842,1880
+2499,Agua de Pau,Portugal,947,1564
+2500,Furnas,Portugal,805,1630
+2501,Monaco Bank,Portugal,-197,1911
+2502,Madeira,Portugal,1862,-4500
+2503,La Palma,Spain,2426,2021
+2504,Hierro,Spain,1500,2012
+2505,Tenerife,Spain,3715,1909
+2506,Gran Canaria,Spain,1950,40
+2507,Fuerteventura,Spain,529,NA
+2508,Lanzarote,Spain,670,1824
+2509,Fogo,Cabo Verde,2829,2015
+2510,Brava,Cabo Verde,956,NA
+2511,Romanche Fracture Zone,Undersea Features,-1528,NA
+2512,Ascension,United Kingdom,858,1508
+2513,Nightingale Island,United Kingdom,365,2004
+2514,Tristan da Cunha,United Kingdom,2060,1962
+2515,Bouvet,Norway,741,-50
+2516,Young Island,Antarctica,1340,NA
+2517,Sturge Island,Antarctica,1167,NA
+2518,"Pleiades, The",Antarctica,3040,-1050
+2519,Melbourne,Antarctica,2732,1892
+2520,Unnamed,Antarctica,-500,NA
+2521,Buckle Island,Antarctica,1239,1899
+2522,Morning,Antarctica,2723,NA
+2523,Royal Society Range,Antarctica,3000,NA
+2524,Berlin,Antarctica,3478,-8350
+2525,Andrus,Antarctica,2978,NA
+2526,Takahe,Antarctica,3460,-5550
+2527,Hudson Mountains,Antarctica,749,-207
+2528,Erebus,Antarctica,3794,2024
+2529,Penguin Island,Antarctica,180,1905
+2530,Deception Island,Antarctica,602,1970
+2531,Paulet,Antarctica,353,NA
+2532,Bridgeman Island,Antarctica,240,NA
+2533,Southern Thule,United Kingdom,1075,1975
+2534,Montagu Island,United Kingdom,1370,2007
+2535,Bristol Island,United Kingdom,1100,2016
+2536,Saunders,United Kingdom,843,2024
+2537,Candlemas Island,United Kingdom,550,1911
+2538,Hodson,United Kingdom,835,NA
+2539,Leskov Island,United Kingdom,190,NA
+2540,Zavodovski,United Kingdom,551,2016
+2541,Protector Seamounts,United Kingdom,-55,1962
+2542,Melville,Antarctica,549,NA
+2543,Mount Haddington Volcanic Field,Antarctica,1630,NA
+2544,Jackson Segment,United States,-3100,NA
+2545,South Sarigan Seamount,United States,-184,2010
+2546,Walvis Ridge at 33°S,Undersea Features,-1200,2002
+2547,Havre Seamount,New Zealand,-897,2012
+2548,Odamoisan [Tebenkov],Japan - administered by Russia,1208,NA
+2549,Niuatahi,Tonga,-1270,NA
+2550,Tenchozan,Japan,1046,NA
+2551,Akandanayama,Japan,2109,NA
+2552,Dugong,Tonga,-1170,NA
+2553,Lobster,Tonga,-1500,NA
+2554,Meullin,Chile,1080,NA
+2555,West Valley Segment,Canada,-2550,NA
+2556,East Blanco Depression,Undersea Features,-3000,NA
+2557,Marsili,Italy,-779,-1050
+2558,Mariana Back-Arc Segment at 15.5°N,United States,-4100,2015
+2559,Heidarspordar,Iceland,490,-300
+2560,Eldey,Iceland,70,1926
+2561,Thordarhyrna,Iceland,1650,1904
+2562,Northern Lake Abaya Volcanic Field,Ethiopia,1594,NA
+2563,Mega Volcanic Field,Ethiopia,1500,NA
+2564,Stepovak Bay Group,United States,1633,NA
+2565,Malumalu,United States,-145,NA
+2566,Fagradalsfjall,Iceland,250,2023

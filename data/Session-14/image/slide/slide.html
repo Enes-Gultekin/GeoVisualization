@@ -1,0 +1,74 @@
+<html>
+<head>
+<script type="text/javascript" src="slide.js"></script>
+<script type="text/javascript">
+
+var subdir  = "./png/"
+
+for (i=0; i<slide.length; i++)
+   image = new Image();
+   image.src = subdir + slide[i];
+
+   var position = 0;
+
+function next() {
+    if (position < slide.length -1) {
+        position ++;
+    } else {
+        position = 0;
+    }
+    set();
+}
+
+function set() {
+    document.images.slide.src = subdir + slide[position];
+    document.querySelector("#name").innerHTML = slide[position];
+}
+
+function stop() {
+    old_position = position;
+    position = slide.length +1
+}
+
+function slideit()
+{
+    set();
+    if (position < slide.length -1) {
+        position++;
+        setTimeout("slideit()",250);
+    }else {
+        position=0;
+        set();
+    }
+}
+</script>
+</head>
+<body>
+<p><img src="#1" width="640" height="480" name="slide" onclick="next()"/></p>
+<nav id="control">
+    <!-- <button onclick="set(); position=0; set();">&lt;&lt;</button>-->
+    Animate: 
+    <button onclick="slideit()">&gt;</button>
+    <button onclick="stop()">|&lt;</button><br>
+    File: <span id="name"></span>
+</nav>
+
+<script type="text/javascript">
+    //document.images.slide.src = subdir + slide[position];
+    set();
+</script>
+<!--<script type="text/javascript">
+        var step=1;
+        function slideit()
+        {
+            document.images.slide.src = eval("image"+step+".src");
+            if(step<2)
+                step++;
+            else
+                step=1;
+            setTimeout("slideit()",2500);
+        }
+        slideit();
+</script>-->
+</body>
+</html>

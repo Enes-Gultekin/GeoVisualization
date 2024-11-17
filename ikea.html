@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+  <link rel="stylesheet" href="libs/prism/prism.css" />
+  <script src="libs/prism/prism.js"></script>
+  <link rel="stylesheet" href="libs/overlay/overlay.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/slideshow.css">
+  <link rel="stylesheet" href="style/style_home.css">
+</head>
+
+<body>
+  <header class="header">
+    <nav id="myTopnav">
+      <a href="index.html">About</a>
+      <a href="geovisualization.html">GeoVisualisation</a>
+
+      <a href="#" class="active">IKEA</a>
+      <a href="cruise.html">Cruise</a>
+      <a href="thematic_map.html">Volcanoes</a>
+      <a href="accidents.html">Accidents in NRW</a>
+      <a href="flood.html">Flood</a>
+      <a href="rustle.html">RUSLE</a>
+      
+      <a href="javascript:void(0);" class="icon" onclick="w3menu('myTopnav')">
+        <i class="fa fa-bars"></i></a>
+    </nav>
+    <h1>GeoVisualisation</h1>
+    <br />
+    <h2>Portfolio Winter 2023/2024</h2>
+    <div id="author_box">
+      <p>
+        <b>Author:</b> <br />Enes Gültekin
+      </p>
+      <i class="fa fa-envelope-o" aria-hidden="true"></i>
+      m.enes.gultkn@gmail.com
+    </div>
+  </header>
+  <main>
+    <article>
+    <h1 style="margin-top: 5%;">IKEA STORES DISTANCE ANALYSIS</h1>
+  <br>
+  
+    <p>
+      The first IKEA opened in 1958 in Älmhult, Sweden, forever changing how
+      students and young adults on a shoestring budget decorated their homes.
+      Its mission to provide simple, affordable, and functional furniture to
+      the masses revolutionized an entire industry. But in which countries
+      does the Scandinavian brand have the biggest presence? We visualize the
+      number of IKEA stores globally, by region and country, using data from
+      World Population Review. The source warns that per-country numbers tend
+      to fluctuate as stores can open and shut at any time. IKEA’s own store
+      count lists them by region only, and has a lower total number,
+      suggesting stores have closed since World Population Review’s last
+      count.IKEA’s biggest presence is in Germany, boasting of 55 stores in a
+      country of 83 million people, or about one store per 1.5 million
+      Germans.
+    </p>
+    <q style="display: none;" class="harvard footnote indirect"
+      cite="https://www.visualcapitalist.com/charted-number-of-ikea-stores-by-country/"
+      title="Charted: Number of IKEA Stores, by Country">
+  </article>
+    <div class="grid-container">
+        <div class="grid-item">
+          <h5 class="card-title" style="font-weight: bolder;">IKEA STORES ON THE MAP</h5>
+          <p class="card-text"><img src="data/Session-3/images/ikea_locations_map.png" title="IKEA Locations Germany" ></p>
+
+        </div>
+        <div class="grid-item">
+          <h5 class="card-title" style="font-weight: bolder;">IKEA STORES TABLE</h5>
+            <div style="max-height: 600px;overflow-x: hidden; overflow-y: auto;">
+            <table class="table_component">
+            <caption>
+              IKEA STORES
+            </caption>
+            <thead>
+              <tr>
+                <th>Branch Name</th>
+                <th>Year</th>
+                <th>Sales</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Augsburg (Gersthofen)</td>
+                <td>2006</td>
+                <td>31.000</td>
+              </tr>
+              <tr>
+                <td>Berlin-Lichtenberg</td>
+                <td>2010</td>
+                <td>43.000</td>
+              </tr>
+              <tr>
+                <td>Berlin-Spandau</td>
+                <td>1979</td>
+                <td>36.300</td>
+              </tr>
+              <tr>
+                <td>Berlin-Tempelhof (Berlin-Schöneberg)</td>
+                <td>2003</td>
+                <td>37.000</td>
+              </tr>
+              <tr>
+                <td>Berlin-Waltersdorf (Schönefeld)</td>
+                <td>1993</td>
+                <td>25.000</td>
+              </tr>
+              <tr>
+                <td>Bielefeld</td>
+                <td>1996</td>
+                <td>29.000</td>
+              </tr>
+              <tr>
+                <td>Braunschweig</td>
+                <td>1993</td>
+                <td>27.000</td>
+              </tr>
+              <tr>
+                <td>Brinkum (Stuhr)</td>
+                <td>1976</td>
+                <td>21.700</td>
+              </tr>
+              <tr>
+                <td>Bremerhaven</td>
+                <td>2015</td>
+                <td>18.000</td>
+              </tr>
+              <tr>
+                <td>Chemnitz</td>
+                <td>1994</td>
+                <td>20.400</td>
+              </tr>
+              <tr>
+                <td>Dortmund</td>
+                <td>1999</td>
+                <td>29.500</td>
+              </tr>
+              <tr>
+                <td>Dresden</td>
+                <td>2001</td>
+                <td>27.500</td>
+              </tr>
+              <tr>
+                <td>Duisburg</td>
+                <td>2005</td>
+                <td>31.700</td>
+              </tr>
+              <tr>
+                <td>Düsseldorf</td>
+                <td>1999</td>
+                <td>39.000</td>
+              </tr>
+              <tr>
+                <td>Erfurt</td>
+                <td>2005</td>
+                <td>28.200</td>
+              </tr>
+              <tr>
+                <td>Essen</td>
+                <td>1993</td>
+                <td>22.800</td>
+              </tr>
+              <tr>
+                <td>Frankfurt</td>
+                <td>2007</td>
+                <td>35.000</td>
+              </tr>
+              <tr>
+                <td>Freiburg</td>
+                <td>1981</td>
+                <td>26.800</td>
+              </tr>
+              <tr>
+                <td>Großburgwedel</td>
+                <td>1976</td>
+                <td>24.600</td>
+              </tr>
+              <tr>
+                <td>Halle/Leipzig (Leuna)</td>
+                <td>1994</td>
+                <td>23.100</td>
+              </tr>
+              <tr>
+                <td>Hamburg-Altona</td>
+                <td>2014</td>
+                <td>18.000</td>
+              </tr>
+              <tr>
+                <td>Hamburg-Moorfleet</td>
+                <td>2002</td>
+                <td>35.600</td>
+              </tr>
+              <tr>
+                <td>Hamburg-Schnelsen</td>
+                <td>1989</td>
+                <td>31.200</td>
+              </tr>
+              <tr>
+                <td>Hanau</td>
+                <td>1997</td>
+                <td>22.300</td>
+              </tr>
+              <tr>
+                <td>Hannover EXPO-Park</td>
+                <td>2006</td>
+                <td>36.000</td>
+              </tr>
+              <tr>
+                <td>Kaarst</td>
+                <td>1979</td>
+                <td>25.000</td>
+              </tr>
+              <tr>
+                <td>Kaiserslautern</td>
+                <td>2015</td>
+                <td>24.000</td>
+              </tr>
+              <tr>
+                <td>Kamen</td>
+                <td>1978</td>
+                <td>29.100</td>
+              </tr>
+              <tr>
+                <td>Karlsruhe</td>
+                <td>2020</td>
+                <td>25.500</td>
+              </tr>
+              <tr>
+                <td>Kassel</td>
+                <td>1980</td>
+                <td>25.300</td>
+              </tr>
+              <tr>
+                <td>Kiel</td>
+                <td>2002</td>
+                <td>29.300</td>
+              </tr>
+              <tr>
+                <td>Koblenz</td>
+                <td>2006</td>
+                <td>29.300</td>
+              </tr>
+              <tr>
+                <td>Köln-Am Butzweilerhof</td>
+                <td>2009</td>
+                <td>42.700</td>
+              </tr>
+              <tr>
+                <td>Köln-Godorf</td>
+                <td>1975</td>
+                <td>36.900</td>
+              </tr>
+              <tr>
+                <td>Lübeck</td>
+                <td>2014</td>
+                <td>25.500</td>
+              </tr>
+              <tr>
+                <td>Ludwigsburg</td>
+                <td>1998</td>
+                <td>32.200</td>
+              </tr>
+              <tr>
+                <td>Magdeburg</td>
+                <td>2017</td>
+                <td>18.000</td>
+              </tr>
+              <tr>
+                <td>Mannheim</td>
+                <td>2004</td>
+                <td>34.600</td>
+              </tr>
+              <tr>
+                <td>München-Brunnthal (Taufkirchen)</td>
+                <td>2003</td>
+                <td>37.700</td>
+              </tr>
+              <tr>
+                <td>München-Eching (Eching)</td>
+                <td>1974</td>
+                <td>32.300</td>
+              </tr>
+              <tr>
+                <td>Nürnberg/Fürth (Fürth)</td>
+                <td>1981</td>
+                <td>34.600</td>
+              </tr>
+              <tr>
+                <td>Oldenburg</td>
+                <td>2007</td>
+                <td>37.000</td>
+              </tr>
+              <tr>
+                <td>Osnabrück</td>
+                <td>2005</td>
+                <td>28.000</td>
+              </tr>
+              <tr>
+                <td>Regensburg</td>
+                <td>2001</td>
+                <td>24.300</td>
+              </tr>
+              <tr>
+                <td>Rostock</td>
+                <td>2007</td>
+                <td>28.000</td>
+              </tr>
+              <tr>
+                <td>Saarlouis</td>
+                <td>1981</td>
+                <td>24.600</td>
+              </tr>
+              <tr>
+                <td>Siegen</td>
+                <td>2005</td>
+                <td>24.900</td>
+              </tr>
+              <tr>
+                <td>Sindelfingen</td>
+                <td>1997</td>
+                <td>34.300</td>
+              </tr>
+              <tr>
+                <td>Ulm</td>
+                <td>2003</td>
+                <td>30.700</td>
+              </tr>
+              <tr>
+                <td>Wallau (Hofheim am Taunus)</td>
+                <td>1977</td>
+                <td>34.300</td>
+              </tr>
+              <tr>
+                <td>Walldorf</td>
+                <td>1981</td>
+                <td>25.000</td>
+              </tr>
+              <tr>
+                <td>Wetzlar</td>
+                <td>2017</td>
+                <td>18.000</td>
+              </tr>
+              <tr>
+                <td>Wuppertal</td>
+                <td>2016</td>
+                <td>25.500</td>
+              </tr>
+              <tr>
+                <td>Würzburg</td>
+                <td>2009</td>
+                <td>36.000</td>
+              </tr>
+              <tr></tr>
+            </tbody>
+          </table></div></div>
+      </div>
+    <h2 style="margin-top: 5%;">IKEA stores Distance Analysis Steps</h2>
+    <div class="grid-container">
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">The IKEA locations points has been added</h5>
+        <p class="card-text"><img style="float: left;" src="data/Session-3/images/ikea_locations_style.png" alt=""></p>
+      </div>
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">Points are converted to EPSG:25832 from EPSG:4326 saved as "ikea_utm32 geopackage"</h5>
+        <p class="card-text"><img style="float: left;" src="data/Session-3/images/ikea_utm32.png" alt=""></p>
+      </div>
+    </div>
+    <br><br>
+    <div class="grid-container">
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">Displaying Motorway Nodes</h5>
+        <p class="card-text"><img src="data/Session-3/images/motorway_nodes.png" alt=""></p>
+      </div>
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">Displaying Motorway Lines</h5>
+        <p class="card-text"><img src="data/Session-3/images/motorway_line.png" alt=""></p>
+      </div>
+    </div>
+    <br><br>
+    <div class="grid-container">
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">Calculating the distance from IKEA shops to motorway nodes with "Distance to Nearest Hub" tool.</h5>
+        <p class="card-text"><img src="data/Session-3/images/distance_tool.png" alt=""></p>
+      </div>
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">Distance Hub Attribute Table</h5>
+        <p class="card-text"><img src="data/Session-3/images/distance_attribute_table.png" alt=""></p>
+      </div>
+    </div>
+    <br><br>
+    <h2>Results</h2>
+    <div class="grid-container">
+      <div class="grid-item">
+        <h5 class="card-title" style="font-weight: bolder;">Distance Statistics</h5>
+        <p class="card-text">
+          <table style="float: left;">
+            <tr>
+              <th>Statistic</th>
+              <th>Value</th>
+            </tr>
+            <tr>
+              <td>Count</td>
+              <td>54</td>
+            </tr>
+            <tr>
+              <td>Minimum Value</td>
+              <td>195.44</td>
+            </tr>
+            <tr>
+              <td>Maximum Value</td>
+              <td>7091.61</td>
+            </tr>
+            <tr>
+              <td>Range</td>
+              <td>6896.17</td>
+            </tr>
+            <tr>
+              <td>Sum</td>
+              <td>71056.11</td>
+            </tr>
+            <tr>
+              <td>Mean Value</td>
+              <td>1315.85</td>
+            </tr>
+            <tr>
+              <td>Median Value</td>
+              <td>680.38</td>
+            </tr>
+            <tr>
+              <td>Standard Deviation</td>
+              <td>1554.84</td>
+            </tr>
+            <tr>
+              <td>First Quartile (Q1)</td>
+              <td>409.44</td>
+            </tr>
+            <tr>
+              <td>Third Quartile (Q3)</td>
+              <td>1448.12</td>
+            </tr>
+          </table>
+        </p>
+      </div>
+      <div class="grid-item">
+        <iframe src="data/Session-3/motorways_and_ikea/qgis2web_2024_05_31-09_13_24_842362/index.html" frameborder="0"></iframe>
+      </div>
+    </div>
+    <br><br>
+    
+    <br><br>
+    <article>
+      <p>According to statistics, there are <b>54</b> IKEA stores placed throughout Germany. While the IKEA store in <b>Berlin-Waltersdorf</b> has the minimum distance <b>195.44 meters</b>, the maximum distance is belong to <b>Berlin-Lichtenberg</b> with <b>7091 meters</b>. This store is also has the most revenue among all IKEA stores. Average distance of IKEA stores is <b>1315.85 meters</b>.</p>
+    </article>
+    <br>
+  </main>
+  <script src="libs/cite/citr.js"></script>
+  <script src="libs/overlay/overlay.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1"
+    />
+    <title>POrtfolio</title>
+    <!-- NEW: icon features -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+
+    <!-- code highlighting -->
+    <link rel="stylesheet" href="libs/prism/prism.css" />
+    <script src="libs/prism/prism.js"></script>
+    <!-- overlays -->
+    <link rel="stylesheet" href="libs/overlay/overlay.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="style/style.css" />
+    <link rel="stylesheet" href="style/style_flood.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <nav id="myTopnav">
+        <a href="index.html">About</a>
+        <a href="geovisualization.html">GeoVisualisation</a>
+
+        <a href="ikea.html">IKEA</a>
+        
+        <a href="cruise.html">Cruise</a>
+        <a href="thematic_map.html">Volcanoes</a>
+        <a href="accidents.html">Accidents in NRW</a>
+        <a class="active" href="#">Flood</a>
+        <a href="rustle.html">RUSLE</a>
+        
+        <a href="javascript:void(0);" class="icon" onclick="w3menu('myTopnav')">
+          <i class="fa fa-bars"></i
+        ></a>
+      </nav>
+      <h1>GeoVisualisation</h1>
+      <br />
+      <h2>Portfolio Winter 2023/2024</h2>
+      <div id="author_box">
+        <p>
+          <b>Author:</b> <br />Enes Gültekin
+        </p>
+        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+        m.enes.gultkn@gmail.com
+      </div>
+    </header>
+    <br /><br /><br /><br /><br />
+
+    <!-- navbar -->
+
+    <!-- opening bar -->
+    <h1 style="text-transform: uppercase">Flood</h1>
+    <br />
+    <article>
+      <p>
+        The picturesque city of Trier, nestled along the banks of the Moselle
+        River, has a rich history dating back to Roman times. However, this
+        historic charm is occasionally overshadowed by the threat of flooding.
+        The Moselle River, known for its scenic beauty and vital role in the
+        region’s economy, can transform into a formidable force during periods
+        of heavy rainfall and severe weather. Recent events have highlighted the
+        vulnerability of Trier and its surrounding areas to flooding, prompting
+        a renewed focus on preparedness and resilience. This webpage aims to
+        provide an overview of the recent flood events, their impact on the
+        community, and the measures being taken to mitigate future risks
+      </p>
+    </article>
+    <article>
+      <p>
+        In this project I tried to create a simulation which depicts how the
+        city affected by the potential of the flood risk of Moselle river.
+        Following sections shows results and at the end of the page you are
+        going to find these phases of the project.
+      </p>
+      <h2 style="margin-top: 10%;">Results</h2>
+    </article>
+    
+    <div class="result">
+      <div class="vd">
+        <h3>Flood Map</h3>
+        <iframe
+          src="https://experience.arcgis.com/experience/87814bb8ed9f49b0b057797607e9ba25"
+          loading="lazy"
+          frameborder="0"
+          width="100%"
+          height="400px"
+        ></iframe>
+      </div>
+      <div class="mp">
+        <div class="video-section">
+          <h3>Flood Animation 3D</h3>
+          <video width="100%" height="400px" controls loop>
+            <source src="data/video/flood.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+        </div>
+        <p>
+          This video is captured in ArcGIS Pro. It displays in the event of a
+          possible flood scenario.
+        </p>
+      </div>
+    </div>
+    <h2 style="margin-top: 10%;">Steps</h2>
+    <div class="slideshow_container">
+      <div class="main-container">
+        <div class="slides active">
+          <img
+            src="data/Session-7/images/1-import_dem.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/1-imported_dem.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/2-dem_styles.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/3-dem_interpolated.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/3-dem_output.png"
+            style="width: 100%"
+          />
+        </div>
+
+        <div class="slides">
+          <img
+            src="data/Session-7/images/3-dem_hillshaded.png"
+            style="width: 100%"
+          />
+        </div>
+
+        <!--  -->
+
+        <div class="slides">
+          <img
+            src="data/Session-7/images/4-aspect.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/5-dem_contour.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img src="data/Session-7/images/6-slope.png" style="width: 100%" />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/7-buildings and dem.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/8-fix_geometries.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/9-zonal_1.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/9-zonal_2.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/10-edit_add_building_heights.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/11-buildings_style.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/11-buildings.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/12-3d_attributes.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/13-3d_model.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/14-hillshade_arcgis.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/16-new_db_tempo.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/17-extract_heights.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/18-floaded_features.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/19-time_mosaic.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/20_flood_mosaic_attrib.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/21-flood_animation_settings.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="slides">
+          <img
+            src="data/Session-7/images/22-share_webmap.png"
+            style="width: 100%"
+          />
+        </div>
+        <div class="thumbnails">
+          <img
+            src="data/Session-7/images/1-import_dem.png"
+            onclick="currentSlide(1)"
+          />
+          <img
+            src="data/Session-7/images/1-imported_dem.png"
+            onclick="currentSlide(2)"
+          />
+          <img
+            src="data/Session-7/images/2-dem_styles.png"
+            onclick="currentSlide(3)"
+          />
+          <img
+            src="data/Session-7/images/3-dem_interpolated.png"
+            onclick="currentSlide(4)"
+          />
+          <img
+            src="data/Session-7/images/3-dem_output.png"
+            onclick="currentSlide(5)"
+          />
+
+          <img
+            src="data/Session-7/images/3-dem_hillshaded.png"
+            onclick="currentSlide(6)"
+          />
+
+          <!--  -->
+
+          <img
+            src="data/Session-7/images/4-aspect.png"
+            onclick="currentSlide(7)"
+          />
+          <img
+            src="data/Session-7/images/5-dem_contour.png"
+            onclick="currentSlide(8)"
+          />
+          <img
+            src="data/Session-7/images/6-slope.png"
+            onclick="currentSlide(9)"
+          />
+          <img
+            src="data/Session-7/images/7-buildings and dem.png"
+            onclick="currentSlide(10)"
+          />
+          <img
+            src="data/Session-7/images/8-fix_geometries.png"
+            onclick="currentSlide(11)"
+          />
+          <img
+            src="data/Session-7/images/9-zonal_1.png"
+            onclick="currentSlide(12)"
+          />
+          <img
+            src="data/Session-7/images/9-zonal_2.png"
+            onclick="currentSlide(13)"
+          />
+          <img
+            src="data/Session-7/images/10-edit_add_building_heights.png"
+            onclick="currentSlide(14)"
+          />
+          <img
+            src="data/Session-7/images/11-buildings_style.png"
+            onclick="currentSlide(15)"
+          />
+          <img
+            src="data/Session-7/images/11-buildings.png"
+            onclick="currentSlide(16)"
+          /><img
+            src="data/Session-7/images/12-3d_attributes.png"
+            onclick="currentSlide(17)"
+          /><img
+            src="data/Session-7/images/13-3d_model.png"
+            onclick="currentSlide(18)"
+          /><img
+            src="data/Session-7/images/14-hillshade_arcgis.png"
+            onclick="currentSlide(19)"
+          /><img
+            src="data/Session-7/images/16-new_db_tempo.png"
+            onclick="currentSlide(20)"
+          /><img
+            src="data/Session-7/images/17-extract_heights.png"
+            onclick="currentSlide(21)"
+          /><img
+            src="data/Session-7/images/18-floaded_features.png"
+            onclick="currentSlide(22)"
+          /><img
+            src="data/Session-7/images/19-time_mosaic.png"
+            onclick="currentSlide(23)"
+          /><img
+            src="data/Session-7/images/20_flood_mosaic_attrib.png"
+            onclick="currentSlide(24)"
+          /><img
+            src="data/Session-7/images/21-flood_animation_settings.png"
+            onclick="currentSlide(25)"
+          /><img
+            src="data/Session-7/images/22-share_webmap.png"
+            onclick="currentSlide(26)"
+          />
+        </div>
+      </div>
+      <div class="description">
+        
+        <p id="description-text">Description for image 1.</p>
+      </div>
+    </div>
+    
+
+    <script>
+      let slideIndex = 1;
+      showSlides(slideIndex);
+
+      function currentSlide(n) {
+        showSlides((slideIndex = n));
+      }
+
+      function showSlides(n) {
+        let slides = document.getElementsByClassName("slides");
+        let descriptions = [
+          "1- Importing the DEM data to QGIS. this data refers to the digital elevation model of the Trier region.",
+          "2- Data without style changes.",
+          "3- Changing the style of the data.",
+          "4- Using the 'Tin Interpolation' tool to create real Digital Elevation Model.",
+          "5- Digital Elevation Model of the region.",
+          "6- Visualising Hillshade.",
+          "7- Aspect of the area.",
+          "8- Contours.",
+          "9- Slope.",
+          "10- Added Building layer to the project. The projection set to 'EPSG:3035'.",
+          "11- To fix geometrical errors, we used 'Fixed Geometry' tool.",
+          "12- To calculate building heigts, we used 'Zonal Statistics' tool.",
+          "13- Statistical methods to calculate building heights.",
+          "14- Editing the attributes of Buildings and their Heights.",
+          "15- Adjusting the style of buildings.",
+          "16- Buildings and their heights.",
+          "17- Adjusting 3D view properties of buildings",
+          "18- 3D Model of the region",
+          "19- To create the 3D simulation and the WebMap, we are going to use Arcgis. DEM data has been added and the hillshade is created",
+          "20- In order to save water level, we are saving the data into the 'level.gdb' database. Calculaing levels will be done using an external toolbox called",
+          "21- Extracting the height of the Moselle river.",
+          "22- Saving buildings data which are affected by the flood.",
+          "23- Creating a time mosaic. That tool adds a column called 'fl_time' which is used to create time attribute for 3D simulation.",
+          "24- Adjusting the time attribute of the flood layer",
+          "25- Extracting properties for the flood animation.(The Flood Animation can be watched above)",
+          "26- Sharing the WebMap to the public.",
+        ];
+        if (n > slides.length) {
+          slideIndex = 1;
+        }
+        if (n < 1) {
+          slideIndex = slides.length;
+        }
+        for (let i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        slides[slideIndex - 1].style.display = "block";
+        document.getElementById("description-text").innerText =
+          descriptions[slideIndex - 1];
+      }
+    </script>
+
+    <!-- to citetions -->
+    <script src="libs/cite/citr.js"></script>
+    <!-- to create overlay -->
+    <script src="libs/overlay/overlay.js"></script>
+    <!-- w3 css library -->
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+    <!-- bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

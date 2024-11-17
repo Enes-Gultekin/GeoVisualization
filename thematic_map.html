@@ -1,0 +1,147 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+    <head>
+      <meta charset="UTF-8" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Portfolio</title>
+      <!-- NEW: icon features -->
+      <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      />
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      />
+  
+      <!-- code highlighting -->
+      <link rel="stylesheet" href="libs/prism/prism.css" />
+      <script src="libs/prism/prism.js"></script>
+      <!-- overlays -->
+      <link rel="stylesheet" href="libs/overlay/overlay.css" />
+      <link
+        rel="stylesheet"
+        href="	https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      />
+      <link rel="stylesheet" href="style/style.css">
+      <link rel="stylesheet" href="style/slideshow.css">
+      <link rel="stylesheet" href="style/style_volcanoes.css">
+      
+    </head>
+  
+    <body>
+      <header class="header">
+        <nav id="myTopnav">
+          
+          <a href="index.html">About</a>
+          <a href="geovisualization.html">GeoVisualisation</a>
+          <a href="ikea.html">IKEA</a>          
+          
+          <a href="cruise.html">Cruise</a>
+          <a href="#" class="active">Volcanoes</a>
+          <a href="accidents.html">Accidents in NRW</a>
+          <a href="flood.html">Flood</a>
+          <a href="rustle.html">RUSLE</a>
+          
+  
+          <a href="javascript:void(0);" class="icon" onclick="w3menu('myTopnav')">
+            <i class="fa fa-bars"></i
+          ></a>
+        </nav>
+        <h1>GeoVisualisation</h1>
+        <br />
+        <h2>Portfolio Winter 2023/2024</h2>
+        <div id="author_box">
+          <p>
+            <b>Author:</b> <br />Enes Gültekin
+          </p>
+          <i class="fa fa-envelope-o" aria-hidden="true"></i>
+          m.enes.gultkn@gmail.com
+        </div>
+      </header>
+      <main>
+      <article><br><br>
+        <h1>VOLCANOES</h1><br><br>
+        <p>Volcanoes are mountains but they are very different from other mountains; they are not formed by folding and crumpling or by uplift and erosion. Instead, volcanoes are built by the accumulation of their own eruptive products -- lava, bombs (crusted over ash flows, and tephra (airborne ash and dust). A volcano is most commonly a conical hill or mountain built around a vent that connects with reservoirs of molten rock below the surface of the Earth. The term volcano also refers to the opening or vent through which the molten rock and associated gases are expelled. Driven by buoyancy and gas pressure the molten rock, which is lighter than the surrounding solid rock forces its way upward and may ultimately break though zones of weaknesses in the Earth's crust. If so, an eruption begins, and the molten rock may pour from the vent as non-explosive lava flows, or if may shoot violently into the air as dense clouds of lava fragments. Larger fragments fall back around the vent, and accumulations of fall-back fragments may move downslope as ash flows under the force of gravity. Some of the finer ejected materiaIs may be carried by the wind only to fall to the ground many miles away. The finest ash particles may be injected miles into the atmosphere and carried many times around the world by stratospheric winds before settling out</p>
+    <p>Source: <a href="https://pubs.usgs.gov/gip/volc/intro.html" class="harvard footnote indirect" title="USGS The Nature of Volcanoes, 2024">USGS The Nature of Volcanoes, 2024</a></p>
+
+    </article>
+    <article><p>The data is obtained from Smithsonian Institution. The Smithsonian Institution's Global Volcanism Program (GVP) is housed in the Department of Mineral Sciences, National Museum of Natural History, in Washington D.C. We are devoted to a better understanding of Earth's active volcanoes and their eruptions during the last 10,000 years.<p>Source: <a href="https://nsidc.org/data/nsidc-0020/versions/1" class="harvard footnote indirect" title="">Coordinated Eastern Arctic Experiment (CEAREX) Data</a></p> </article>
+    <h2 style="margin-bottom: 2%; margin-top: 5%;">Locations of Volcanoes</h2>
+    <div class="grid-container">
+      <div class="grid-item">
+          <iframe src="data/Session-4/table_volcanoes.html"></iframe>
+      </div>
+      <div class="grid-item">
+          <img src="data/Session-4/images/volcanoes_map.png" alt="Placeholder Image">
+      </div>
+  </div>
+  <h2 style="margin-bottom: 2%; margin-top: 5%;">Process</h2>
+<div class="slideshow-container">
+    <div class="slides active">
+        <img src="data/Session-4/images/wfs_volcanoes.png" style="width:750px; height:750px">
+        <div class="description">Importing points and OSM Base Map</div>
+    </div>
+    <div class="slides">
+      <img src="data/Session-4/images/save_volcanoes.png" style="width:750px; height:750px">
+      <div class="description">Create a new geopackage to edit data</div>
+  </div>
+  <div class="slides">
+    <img src="data/Session-4/images/volcanoes_catagorized_merged.png" style="width:750px; height:750px">
+    <div class="description">Adjusting Categories and Style</div>
+</div>
+    <div class="slides">
+        <img src="data/Session-4/images/volcanoes_new_marker.png" style="width:750px; height:750px">
+        <div class="description">Volcanoes with new style</div>
+    </div>
+    <div class="slides">
+        <img src="data/Session-4/images/volcanoes_points_cluster.png" style="width:750px; height:750px">
+        <div class="description">Clustered volcano points</div>
+    </div> 
+    <div class="slides"> 
+        <img src="data/Session-4/images/volcanoes_heatmap_style.png" style="width:750px;  height:750px">
+        <div class="description">Changing style to create heat map</div>
+    </div>
+   
+  
+    <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+    <a class="next" onclick="changeSlide(1)">&#10095;</a>
+</div>
+
+<div class="slide-panel">
+    <button onclick="changeSlide(0)">1</button>
+    <button onclick="changeSlide(1)">2</button>
+    <button onclick="changeSlide(2)">3</button>
+    <button onclick="changeSlide(3)">4</button>
+    <button onclick="changeSlide(4)">5</button>
+    <button onclick="changeSlide(5)">6</button>
+</div>
+</div><br><article><h2>Conclusion</h2>
+  <p>
+    In conclusion, the concentration of volcanoes around the Pacific Ocean highlights the geological activity of the Ring of Fire, a region known for frequent seismic and volcanic events. This distribution underscores the dynamic nature of Earth's tectonic plates in shaping the landscape. Furthermore, the presence of significant numbers of volcanoes in North Africa and East Asia emphasizes the diverse geological features found across different continents. Understanding the distribution of volcanoes is crucial for assessing volcanic hazards and mitigating potential risks to human populations and infrastructure in these regions.</p>
+  <br>
+  <br></article>
+  <div class="grid-container">
+    <div class="grid-item">
+        <iframe src="data/Session-4/volcanoes_webmap/qgis2web_2024_07_10-16_11_13_532368/index.html"></iframe>
+    </div>
+    <div class="grid-item">
+        <img src="data/Session-4/images/volcanoes heatmap.png" alt="Placeholder Image">
+    </div>
+</div>
+<script>
+    let slideIndex = 0;
+
+    function changeSlide(n) {
+        const slides = document.querySelectorAll('.slides');
+        slides[slideIndex].classList.remove('active');
+        slideIndex = (n + slides.length) % slides.length;
+        slides[slideIndex].classList.add('active');
+    }
+</script>
+
+</body>
+</html>
