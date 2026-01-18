@@ -28,4 +28,4 @@ Thematic maps displaying environmental risk zones and active volcanic regions, c
 
 
 🚀 How to View
-You can view the interactive versions of these maps at the Live Gallery.
+You can view the interactive versions of these maps at [the Live Website](https://enes-gultekin.github.io/GeoVisualization/)
